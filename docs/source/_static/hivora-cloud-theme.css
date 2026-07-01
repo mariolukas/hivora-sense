@@ -1,0 +1,167 @@
+/*
+ * Hivora Sense Doku-Theme
+ * Farben abgeglichen mit dem hivora-cloud Frontend
+ * (shadcn/Tailwind Design-Tokens, siehe hivora-frontend/src/index.css).
+ *   --primary:    hsl(35 92% 50%)      -> #f5930a
+ *   --foreground: hsl(222.2 84% 4.9%)  -> #020817
+ *   --secondary:  hsl(217.2 32.6% 17.5%) -> #1e293b (dark surface)
+ *   --border:     hsl(214.3 31.8% 91.4%) -> #e2e8f0
+ *   --muted:      hsl(210 40% 96.1%)   -> #f1f5f9
+ *   --destructive:hsl(0 84.2% 60.2%)   -> #ef4444
+ */
+:root {
+  --hivora-primary: #f5930a;
+  --hivora-primary-light: #f7a833;
+  --hivora-primary-dark: #d97d08;
+  --hivora-primary-rgb: 245, 147, 10;
+  --hivora-slate-950: #020817;
+  --hivora-slate-900: #0f172a;
+  --hivora-slate-800: #1e293b;
+  --hivora-slate-700: #334155;
+  --hivora-border: #e2e8f0;
+  --hivora-muted: #f1f5f9;
+  --hivora-destructive: #ef4444;
+  --hivora-text: #020817;
+}
+
+/* Left navigation (RTD theme) */
+.wy-nav-side {
+  background: var(--hivora-slate-950);
+}
+
+.wy-side-nav-search {
+  background: linear-gradient(135deg, var(--hivora-slate-950), var(--hivora-slate-800));
+  border-bottom: 1px solid rgba(var(--hivora-primary-rgb), 0.25);
+}
+
+.wy-side-nav-search input[type="text"] {
+  border-color: rgba(var(--hivora-primary-rgb), 0.35);
+}
+
+.wy-menu-vertical a {
+  color: #d1d5db;
+}
+
+.wy-menu-vertical a:hover,
+.wy-menu-vertical a:focus {
+  background-color: rgba(var(--hivora-primary-rgb), 0.14);
+  color: #ffffff;
+}
+
+.wy-menu-vertical li.current > a,
+.wy-menu-vertical li.current > a:hover {
+  background: rgba(var(--hivora-primary-rgb), 0.24);
+  color: #020817;
+  border-right: 3px solid var(--hivora-primary);
+  font-weight: 700;
+}
+
+.wy-menu-vertical li.current > a span.toctree-expand {
+  color: #020817;
+}
+
+.wy-menu-vertical li.current > ul li.toctree-l2 > a {
+  color: #374151;
+}
+
+.wy-menu-vertical li.current > ul li.toctree-l2.current > a,
+.wy-menu-vertical li.current > ul li.toctree-l2 > a:hover {
+  color: #020817;
+}
+
+/* Header + content accents */
+.wy-nav-top {
+  background: var(--hivora-primary-dark);
+}
+
+.wy-nav-content {
+  max-width: 1100px;
+}
+
+.wy-nav-content-wrap {
+  background: #ffffff;
+}
+
+.rst-content,
+.rst-content p,
+.rst-content li {
+  color: var(--hivora-text);
+}
+
+.rst-content a,
+a {
+  color: var(--hivora-primary-dark);
+}
+
+.rst-content a:hover,
+a:hover {
+  color: #b3660a;
+}
+
+.rst-content h1,
+.rst-content h2,
+.rst-content h3,
+.rst-content h4 {
+  color: var(--hivora-slate-950);
+}
+
+/* Admonitions and code blocks */
+.rst-content .note,
+.rst-content .admonition {
+  border-left: 4px solid var(--hivora-primary);
+}
+
+.rst-content .note .admonition-title,
+.rst-content .admonition .admonition-title {
+  background: rgba(var(--hivora-primary-rgb), 0.14);
+}
+
+/* Warning-/Danger-Admonitions in der Frontend-Fehlerfarbe */
+.rst-content .warning,
+.rst-content .danger,
+.rst-content .error,
+.rst-content .caution {
+  border-left-color: var(--hivora-destructive);
+}
+
+.rst-content .warning .admonition-title,
+.rst-content .danger .admonition-title,
+.rst-content .error .admonition-title,
+.rst-content .caution .admonition-title {
+  background: rgba(239, 68, 68, 0.14);
+}
+
+.rst-content pre,
+.rst-content div[class^="highlight"] {
+  border: 1px solid var(--hivora-border);
+  border-radius: 6px;
+}
+
+/* Tables */
+.rst-content table.docutils thead th {
+  background: var(--hivora-slate-800);
+  color: #ffffff;
+}
+
+.rst-content table.docutils tbody tr:nth-child(even) {
+  background: var(--hivora-muted);
+}
+
+.rst-content table.docutils {
+  border-color: var(--hivora-border);
+}
+
+/* Buttons */
+.btn,
+.wy-dropdown .btn,
+.btn-neutral {
+  background: var(--hivora-primary);
+  border-color: var(--hivora-primary-dark);
+  color: #020817 !important;
+}
+
+.btn:hover,
+.btn-neutral:hover {
+  background: var(--hivora-primary-light);
+  border-color: var(--hivora-primary);
+}
