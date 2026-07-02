@@ -151,37 +151,32 @@ Installieren Sie nun die App auf Ihrem Smartphone. Sie finden die App unter dem
 Namen „HornetLog“ im Apple App Store und bei Google Play. Am schnellsten geht es,
 indem Sie den passenden QR-Code mit der Kamera Ihres Smartphones scannen:
 
-.. |badge-app-store| image:: _static/aufbauanleitung/badge-app-store.svg
-   :alt: Laden im App Store
-   :width: 170px
-   :target: https://apps.apple.com/de/app/hornetlog/id6762065503
+.. raw:: html
 
-.. |qr-app-store| image:: _static/aufbauanleitung/qr-app-store.png
-   :alt: QR-Code HornetLog im Apple App Store
-   :width: 170px
-   :target: https://apps.apple.com/de/app/hornetlog/id6762065503
-
-.. |badge-google-play| image:: _static/aufbauanleitung/badge-google-play.png
-   :alt: Jetzt bei Google Play
-   :width: 170px
-   :target: https://play.google.com/store/apps/details?id=hornet_log.app
-
-.. |qr-google-play| image:: _static/aufbauanleitung/qr-google-play.png
-   :alt: QR-Code HornetLog bei Google Play
-   :width: 170px
-   :target: https://play.google.com/store/apps/details?id=hornet_log.app
-
-.. list-table::
-   :widths: 50 50
-   :header-rows: 1
-   :class: hivora-store-table
-
-   * - Apple (iPhone/iPad)
-     - Android
-   * - |badge-app-store|
-     - |badge-google-play|
-   * - |qr-app-store|
-     - |qr-google-play|
+   <div class="store-grid">
+     <div class="store-card">
+       <div class="store-card__title">Apple (iPhone/iPad)</div>
+       <div class="store-card__body">
+         <a href="https://apps.apple.com/de/app/hornetlog/id6762065503">
+           <img class="store-card__badge" src="_static/aufbauanleitung/badge-app-store.svg" alt="Laden im App Store">
+         </a>
+         <a href="https://apps.apple.com/de/app/hornetlog/id6762065503">
+           <img class="store-card__qr" src="_static/aufbauanleitung/qr-app-store.png" alt="QR-Code HornetLog im Apple App Store">
+         </a>
+       </div>
+     </div>
+     <div class="store-card">
+       <div class="store-card__title">Android</div>
+       <div class="store-card__body">
+         <a href="https://play.google.com/store/apps/details?id=hornet_log.app">
+           <img class="store-card__badge" src="_static/aufbauanleitung/badge-google-play.png" alt="Jetzt bei Google Play">
+         </a>
+         <a href="https://play.google.com/store/apps/details?id=hornet_log.app">
+           <img class="store-card__qr" src="_static/aufbauanleitung/qr-google-play.png" alt="QR-Code HornetLog bei Google Play">
+         </a>
+       </div>
+     </div>
+   </div>
 
 Nachdem die App installiert und geöffnet wurde, wechseln Sie in der unteren
 Navigationsleiste in den Bereich „Mehr“.
