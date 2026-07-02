@@ -153,7 +153,7 @@ indem Sie den passenden QR-Code mit der Kamera Ihres Smartphones scannen:
 
 .. |badge-app-store| image:: _static/aufbauanleitung/badge-app-store.svg
    :alt: Laden im App Store
-   :height: 44px
+   :width: 170px
    :target: https://apps.apple.com/de/app/hornetlog/id6762065503
 
 .. |qr-app-store| image:: _static/aufbauanleitung/qr-app-store.png
@@ -163,7 +163,7 @@ indem Sie den passenden QR-Code mit der Kamera Ihres Smartphones scannen:
 
 .. |badge-google-play| image:: _static/aufbauanleitung/badge-google-play.png
    :alt: Jetzt bei Google Play
-   :height: 44px
+   :width: 170px
    :target: https://play.google.com/store/apps/details?id=hornet_log.app
 
 .. |qr-google-play| image:: _static/aufbauanleitung/qr-google-play.png
@@ -174,6 +174,7 @@ indem Sie den passenden QR-Code mit der Kamera Ihres Smartphones scannen:
 .. list-table::
    :widths: 50 50
    :header-rows: 1
+   :class: hivora-store-table
 
    * - Apple (iPhone/iPad)
      - Android

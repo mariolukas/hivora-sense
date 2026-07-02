@@ -138,7 +138,8 @@ a:hover {
 }
 
 /* Tables */
-.rst-content table.docutils thead th {
+.rst-content table.docutils thead th,
+.rst-content table.docutils thead th p {
   background: var(--hivora-slate-800);
   color: #ffffff;
 }
@@ -149,6 +150,31 @@ a:hover {
 
 .rst-content table.docutils {
   border-color: var(--hivora-border);
+}
+
+/* App-Store-Tabelle (Badges + QR-Codes) */
+.rst-content table.hivora-store-table,
+.rst-content table.hivora-store-table td,
+.rst-content table.hivora-store-table tbody tr {
+  border: none !important;
+  background: #ffffff !important;
+}
+
+.rst-content table.hivora-store-table th,
+.rst-content table.hivora-store-table td {
+  text-align: center;
+  vertical-align: middle;
+  padding: 18px 40px; /* mehr Abstand zwischen den QR-Codes */
+}
+
+.rst-content table.hivora-store-table thead th,
+.rst-content table.hivora-store-table thead th p {
+  background: var(--hivora-slate-800);
+  color: #ffffff;
+}
+
+.rst-content table.hivora-store-table img {
+  margin: 0 auto;
 }
 
 /* Buttons */
