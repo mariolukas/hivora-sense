@@ -148,11 +148,39 @@ Offline mit der HornetLog App
    Installationen ab dem 26.06.2026 ist Version 1.3.0 bereits installiert.
 
 Installieren Sie nun die App auf Ihrem Smartphone. Sie finden die App unter dem
-Namen „`HornetLog <https://hornet-log.app>`_“ im App Store.
+Namen „HornetLog“ im Apple App Store und bei Google Play. Am schnellsten geht es,
+indem Sie den passenden QR-Code mit der Kamera Ihres Smartphones scannen:
 
-.. image:: _static/aufbauanleitung/30-logo-icon.png
-   :alt: HornetLog App Icon
-   :width: 20%
+.. |badge-app-store| image:: _static/aufbauanleitung/badge-app-store.svg
+   :alt: Laden im App Store
+   :height: 44px
+   :target: https://apps.apple.com/de/app/hornetlog/id6762065503
+
+.. |qr-app-store| image:: _static/aufbauanleitung/qr-app-store.png
+   :alt: QR-Code HornetLog im Apple App Store
+   :width: 170px
+   :target: https://apps.apple.com/de/app/hornetlog/id6762065503
+
+.. |badge-google-play| image:: _static/aufbauanleitung/badge-google-play.png
+   :alt: Jetzt bei Google Play
+   :height: 44px
+   :target: https://play.google.com/store/apps/details?id=hornet_log.app
+
+.. |qr-google-play| image:: _static/aufbauanleitung/qr-google-play.png
+   :alt: QR-Code HornetLog bei Google Play
+   :width: 170px
+   :target: https://play.google.com/store/apps/details?id=hornet_log.app
+
+.. list-table::
+   :widths: 50 50
+   :header-rows: 1
+
+   * - Apple (iPhone/iPad)
+     - Android
+   * - |badge-app-store|
+     - |badge-google-play|
+   * - |qr-app-store|
+     - |qr-google-play|
 
 Nachdem die App installiert und geöffnet wurde, wechseln Sie in der unteren
 Navigationsleiste in den Bereich „Mehr“.
