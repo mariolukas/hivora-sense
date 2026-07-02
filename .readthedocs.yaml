@@ -1,3 +1,10 @@
+# Read the Docs Build-Konfiguration (v2).
+#
+# Mehrsprachigkeit auf RTD:
+#   - Dieses Repo ist Quelle fuer alle Sprachen (Kataloge unter docs/locale/).
+#   - Im RTD-Dashboard ein Hauptprojekt (Sprache Deutsch) anlegen und je weiterer
+#     Sprache ein Uebersetzungsprojekt (Englisch), als "Translation" verknuepft.
+#   - RTD setzt die Sprache pro Projekt und blendet ein Sprach-Flyout ein.
 version: 2
 
 build:

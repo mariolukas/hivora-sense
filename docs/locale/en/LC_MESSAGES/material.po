@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Hivora Sense Team
+# This file is distributed under the same license as the Hivora Sense
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hivora Sense \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-01 18:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/material.rst:2
+msgid "Material"
+msgstr ""
+
+#: ../../source/material.rst:4
+msgid ""
+"Dieser Abschnitt listet auf, welches Material für den Aufbau einer "
+"Hivora-Sense-Station benötigt wird und wo es bezogen werden kann."
+msgstr ""
+
+#: ../../source/material.rst:8
+msgid "Benötigtes Material"
+msgstr ""
+
+#: ../../source/material.rst:11
+msgid "Elektronik"
+msgstr ""
+
+#: ../../source/material.rst:13
+msgid "Mikrocontroller-Board (ESP32-basiert) als AI-Edge-Recheneinheit."
+msgstr ""
+
+#: ../../source/material.rst:14
+msgid "Kameramodul zur Bilderfassung an der Wick Trap."
+msgstr ""
+
+#: ../../source/material.rst:15
+msgid ""
+"**Wägezelle** (Load Cell) inkl. Messverstärker zur "
+"Last-/Aktivitätsmessung."
+msgstr ""
+
+#: ../../source/material.rst:16
+msgid "**Temperatursensor** zur Umgebungsüberwachung."
+msgstr ""
+
+#: ../../source/material.rst:17
+msgid "Verkabelung, Steckverbinder und Stromversorgung (USB-Netzteil oder Akku)."
+msgstr ""
+
+#: ../../source/material.rst:20
+msgid "Mechanik / Gehäuse"
+msgstr ""
+
+#: ../../source/material.rst:22
+msgid ""
+"3D-gedruckte Gehäuse- und Halteteile (**PETG** oder **ASA** für den "
+"Außeneinsatz)."
+msgstr ""
+
+#: ../../source/material.rst:23
+msgid "Befestigungsmaterial (Schrauben, Muttern, Kabelbinder)."
+msgstr ""
+
+#: ../../source/material.rst:24
+msgid "Wick Trap (Locktopf) als Basis der Station."
+msgstr ""
+
+#: ../../source/material.rst:27
+msgid "Werkzeug"
+msgstr ""
+
+#: ../../source/material.rst:29
+msgid "3D-Drucker (FDM) für die Gehäuseteile."
+msgstr ""
+
+#: ../../source/material.rst:30
+msgid "Lötkolben und Lötzubehör für die Sensorverdrahtung."
+msgstr ""
+
+#: ../../source/material.rst:31
+msgid "USB-Datenkabel für die Software-Installation."
+msgstr ""
+
+#: ../../source/material.rst:34
+msgid "Wo bekomme ich das Material"
+msgstr ""
+
+#: ../../source/material.rst:36
+msgid ""
+"**Elektronikkomponenten**: über gängige Elektronik-Distributoren (z. B. "
+"Reichelt, Berrybase, AZ-Delivery) oder direkt beim Hersteller."
+msgstr ""
+
+#: ../../source/material.rst:38
+msgid ""
+"**3D-Druckteile**: Die Druckdateien (STL/STEP) werden im Projekt-"
+"Repository bereitgestellt; der Druck kann selbst oder über einen 3D-"
+"Druckdienst erfolgen."
+msgstr ""
+
+#: ../../source/material.rst:40
+msgid "**Filament (PETG/ASA)**: über Filament-Fachhändler."
+msgstr ""
+
+#: ../../source/material.rst:41
+msgid "**Wick Trap / Locktopf**: über den Imkerei-Fachhandel."
+msgstr ""
+
+#: ../../source/material.rst:45
+msgid ""
+"Eine konkrete Stückliste mit Bezugslinks und Mengenangaben wird hier "
+"ergänzt. Die exakten Bauteile hängen von der gewählten Hardware-Revision "
+"ab."
+msgstr ""
+

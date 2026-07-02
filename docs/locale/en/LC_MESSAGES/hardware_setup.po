@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Hivora Sense Team
+# This file is distributed under the same license as the Hivora Sense
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hivora Sense \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-01 18:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/hardware_setup.rst:2
+msgid "Aufbau Hardware"
+msgstr ""
+
+#: ../../source/hardware_setup.rst:4
+msgid ""
+"Dieser Abschnitt beschreibt den mechanischen und elektronischen Aufbau "
+"der Hivora-Sense-Station."
+msgstr ""
+
+#: ../../source/hardware_setup.rst:7
+msgid "3D-Druck (Platzhalter)"
+msgstr ""
+
+#: ../../source/hardware_setup.rst:9
+msgid "Empfohlene Materialien: **PETG** oder **ASA** für Außenanwendungen."
+msgstr ""
+
+#: ../../source/hardware_setup.rst:10
+msgid "Platzhalter für Druckprofile (Layerhöhe, Infill, Wandstärke)."
+msgstr ""
+
+#: ../../source/hardware_setup.rst:11
+msgid "Platzhalter für STL/STEP-Dateien und Bauteilorientierung."
+msgstr ""
+
+#: ../../source/hardware_setup.rst:14
+msgid "Sensor-Assembly (Platzhalter)"
+msgstr ""
+
+#: ../../source/hardware_setup.rst:16
+msgid "Integration der **Wägezelle** (Scale) zur Last-/Aktivitätsmessung."
+msgstr ""
+
+#: ../../source/hardware_setup.rst:17
+msgid "Integration des **Temperatursensors** (Temp) zur Umgebungsüberwachung."
+msgstr ""
+
+#: ../../source/hardware_setup.rst:18
+msgid "Platzhalter für Verdrahtungsplan und Kalibrierungsablauf."
+msgstr ""
+

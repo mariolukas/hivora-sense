@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Hivora Sense Team
+# This file is distributed under the same license as the Hivora Sense
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hivora Sense \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-01 18:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/troubleshooting.rst:2
+msgid "Problembehebung"
+msgstr ""
+
+#: ../../source/troubleshooting.rst:4
+msgid ""
+"Dieser Abschnitt fasst häufige Probleme und Lösungsansätze rund um "
+"Aufbau, Installation und Betrieb der Hivora-Sense-Station zusammen."
+msgstr ""
+
+#: ../../source/troubleshooting.rst:8
+msgid "Software-Installation"
+msgstr ""
+
+#: ../../source/troubleshooting.rst:10
+msgid ""
+"**Serieller Port nicht sichtbar**: USB-Kabel (Datenkabel, nicht nur "
+"Ladekabel) und Browserrechte für WebSerial prüfen."
+msgstr ""
+
+#: ../../source/troubleshooting.rst:12
+msgid ""
+"**Flash-Vorgang fehlgeschlagen**: Verbindung trennen, Gerät neu starten "
+"und den Vorgang erneut ausführen."
+msgstr ""
+
+#: ../../source/troubleshooting.rst:14
+msgid ""
+"**Keine Gerätedaten nach dem Flash**: Baudrate und Board-Profil im "
+"Installer verifizieren."
+msgstr ""
+
+#: ../../source/troubleshooting.rst:16
+msgid ""
+"**Browser unterstützt WebSerial nicht**: Ein aktuelles Chromium-basiertes"
+" Release verwenden."
+msgstr ""
+
+#: ../../source/troubleshooting.rst:20
+msgid "Hardware / Sensorik"
+msgstr ""
+
+#: ../../source/troubleshooting.rst:22
+msgid ""
+"**Keine oder falsche Messwerte der Wägezelle**: Verdrahtung und "
+"Kalibrierung prüfen."
+msgstr ""
+
+#: ../../source/troubleshooting.rst:24
+msgid "**Temperaturwerte unplausibel**: Sensoranschluss und Board-Profil prüfen."
+msgstr ""
+
+#: ../../source/troubleshooting.rst:25
+msgid "**Gerät startet nicht**: Stromversorgung und Kabel kontrollieren."
+msgstr ""
+
+#: ../../source/troubleshooting.rst:28
+msgid "Weitere Hilfe"
+msgstr ""
+
+#: ../../source/troubleshooting.rst:30
+msgid ""
+"Lässt sich ein Problem nicht beheben, kann ein Issue im Projekt-"
+"Repository angelegt werden: https://github.com/mariolukas/hivora-sense"
+msgstr ""
+

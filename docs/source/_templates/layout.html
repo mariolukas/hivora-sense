@@ -1,0 +1,17 @@
+{% extends "!layout.html" %}
+
+{# Eigener Sprachumschalter für GitHub Pages.
+   Auf Read the Docs ausblenden – dort gibt es ein eigenes Sprach-Flyout. #}
+{% block menu %}
+  {{ super() }}
+  {% if not READTHEDOCS and languages %}
+    <p class="caption" role="heading"><span class="caption-text">Sprache / Language</span></p>
+    <ul>
+      {% for label, prefix in languages %}
+        <li class="toctree-l1{% if prefix == current_language or (prefix == '' and current_language == 'de') %} current{% endif %}">
+          <a class="reference internal" href="{{ base_path }}{% if prefix %}/{{ prefix }}{% endif %}/{{ pagename }}.html">{{ label }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endblock %}

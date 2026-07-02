@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Hivora Sense Team
+# This file is distributed under the same license as the Hivora Sense
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hivora Sense \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-01 18:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/terminology.rst:2
+msgid "Terminologie"
+msgstr ""
+
+#: ../../source/terminology.rst:4
+msgid "Mehrsprachige Schlüsselbegriffe"
+msgstr ""
+
+#: ../../source/terminology.rst:7
+msgid "Deutsch"
+msgstr ""
+
+#: ../../source/terminology.rst:8
+msgid "Englisch"
+msgstr ""
+
+#: ../../source/terminology.rst:9
+msgid "Französisch"
+msgstr ""
+
+#: ../../source/terminology.rst:10
+msgid "Locktopf"
+msgstr ""
+
+#: ../../source/terminology.rst:11
+msgid "Wick Trap"
+msgstr ""
+
+#: ../../source/terminology.rst:12
+msgid "Piège à mèche"
+msgstr ""
+
+#: ../../source/terminology.rst:13
+msgid "Asiatische Hornisse"
+msgstr ""
+
+#: ../../source/terminology.rst:14
+msgid "Asian Hornet"
+msgstr ""
+
+#: ../../source/terminology.rst:15
+msgid "Frelon asiatique"
+msgstr ""
+
+#: ../../source/terminology.rst:16
+msgid "KI-Edge-Monitoring"
+msgstr ""
+
+#: ../../source/terminology.rst:17
+msgid "AI Edge Monitoring"
+msgstr ""
+
+#: ../../source/terminology.rst:18
+msgid "Supervision IA en périphérie"
+msgstr ""
+
