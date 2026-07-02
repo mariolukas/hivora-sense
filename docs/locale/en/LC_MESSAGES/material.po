@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hivora Sense \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-01 18:53+0200\n"
+"POT-Creation-Date: 2026-07-02 10:55+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -20,109 +20,293 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.18.0\n"
 
-#: ../../source/material.rst:2
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:2
 msgid "Material"
-msgstr ""
+msgstr "Material"
 
-#: ../../source/material.rst:4
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:4
 msgid ""
-"Dieser Abschnitt listet auf, welches Material für den Aufbau einer "
-"Hivora-Sense-Station benötigt wird und wo es bezogen werden kann."
+"Dieser Abschnitt listet auf, welches Material für den Aufbau eines "
+"Hivora-Sense-Locktopfs benötigt wird und wo es bezogen werden kann. Der "
+"Fokus liegt auf einem einfachen, nachbaubaren Aufbau mit handelsüblichen "
+"Komponenten, die nicht angelötet werden müssen."
 msgstr ""
+"This section lists the material you need to build a Hivora Sense bait "
+"station and where you can source it. The focus is on a simple, "
+"reproducible build using off-the-shelf components that do not need to be "
+"soldered."
 
-#: ../../source/material.rst:8
-msgid "Benötigtes Material"
-msgstr ""
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:10
+msgid "Benötigte Teile"
+msgstr "Required parts"
 
-#: ../../source/material.rst:11
-msgid "Elektronik"
-msgstr ""
-
-#: ../../source/material.rst:13
-msgid "Mikrocontroller-Board (ESP32-basiert) als AI-Edge-Recheneinheit."
-msgstr ""
-
-#: ../../source/material.rst:14
-msgid "Kameramodul zur Bilderfassung an der Wick Trap."
-msgstr ""
-
-#: ../../source/material.rst:15
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:12
 msgid ""
-"**Wägezelle** (Load Cell) inkl. Messverstärker zur "
-"Last-/Aktivitätsmessung."
+"Für einen einfachen Aufbau werden voraussichtlich folgende Komponenten "
+"benötigt:"
 msgstr ""
+"For a simple build you will likely need the following components:"
 
-#: ../../source/material.rst:16
-msgid "**Temperatursensor** zur Umgebungsüberwachung."
-msgstr ""
-
-#: ../../source/material.rst:17
-msgid "Verkabelung, Steckverbinder und Stromversorgung (USB-Netzteil oder Akku)."
-msgstr ""
-
-#: ../../source/material.rst:20
-msgid "Mechanik / Gehäuse"
-msgstr ""
-
-#: ../../source/material.rst:22
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:16
 msgid ""
-"3D-gedruckte Gehäuse- und Halteteile (**PETG** oder **ASA** für den "
-"Außeneinsatz)."
+"Die angegebenen Links sind nur Beispiele. Ein Kauf bei Amazon und Seeed "
+"unterstützt das Projekt."
 msgstr ""
+"The links provided are only examples. Buying via Amazon and Seeed supports "
+"the project."
 
-#: ../../source/material.rst:23
-msgid "Befestigungsmaterial (Schrauben, Muttern, Kabelbinder)."
-msgstr ""
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:19
+msgid "Ein Behälter für den Locktopf (Urinbecher)"
+msgstr "A container for the bait station (urine cup)"
 
-#: ../../source/material.rst:24
-msgid "Wick Trap (Locktopf) als Basis der Station."
-msgstr ""
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:21
+msgid "Apotheke"
+msgstr "Pharmacy"
 
-#: ../../source/material.rst:27
-msgid "Werkzeug"
-msgstr ""
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:22
+msgid "`Amazon.de <https://amzn.to/4uyTTnX>`_"
+msgstr "`Amazon.de <https://amzn.to/4uyTTnX>`_"
 
-#: ../../source/material.rst:29
-msgid "3D-Drucker (FDM) für die Gehäuseteile."
-msgstr ""
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:24
+msgid "**Seeed Studio XIAO ESP32-S3 Sense**"
+msgstr "**Seeed Studio XIAO ESP32-S3 Sense**"
 
-#: ../../source/material.rst:30
-msgid "Lötkolben und Lötzubehör für die Sensorverdrahtung."
-msgstr ""
-
-#: ../../source/material.rst:31
-msgid "USB-Datenkabel für die Software-Installation."
-msgstr ""
-
-#: ../../source/material.rst:34
-msgid "Wo bekomme ich das Material"
-msgstr ""
-
-#: ../../source/material.rst:36
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:26
 msgid ""
-"**Elektronikkomponenten**: über gängige Elektronik-Distributoren (z. B. "
-"Reichelt, Berrybase, AZ-Delivery) oder direkt beim Hersteller."
+"`Seeed Studio <https://www.seeedstudio.com/XIAO-"
+"ESP32S3-Sense-p-5639.html?sensecap_affiliate=ZEBpOxG&referring_service=link>`_"
+" – Promo Code: TURU7V1M"
 msgstr ""
+"`Seeed Studio <https://www.seeedstudio.com/XIAO-"
+"ESP32S3-Sense-p-5639.html?sensecap_affiliate=ZEBpOxG&referring_service=link>`_"
+" – Promo Code: TURU7V1M"
 
-#: ../../source/material.rst:38
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:27
+msgid "`Amazon.de <https://amzn.to/4uWFQJw>`_"
+msgstr "`Amazon.de <https://amzn.to/4uWFQJw>`_"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:28
 msgid ""
-"**3D-Druckteile**: Die Druckdateien (STL/STEP) werden im Projekt-"
-"Repository bereitgestellt; der Druck kann selbst oder über einen 3D-"
-"Druckdienst erfolgen."
+"`Reichelt "
+"<https://www.reichelt.de/de/de/shop/produkt/xiao_esp32s3_sense_wifi_bt_kamera_ov3660_ohne_header-358353>`_"
 msgstr ""
+"`Reichelt "
+"<https://www.reichelt.de/de/de/shop/produkt/xiao_esp32s3_sense_wifi_bt_kamera_ov3660_ohne_header-358353>`_"
 
-#: ../../source/material.rst:40
-msgid "**Filament (PETG/ASA)**: über Filament-Fachhändler."
-msgstr ""
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:29
+msgid "`AliExpress <https://de.aliexpress.com/item/1005010129797593.html>`_"
+msgstr "`AliExpress <https://de.aliexpress.com/item/1005010129797593.html>`_"
 
-#: ../../source/material.rst:41
-msgid "**Wick Trap / Locktopf**: über den Imkerei-Fachhandel."
-msgstr ""
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:31
+msgid "USB-C-Kabel"
+msgstr "USB-C cable"
 
-#: ../../source/material.rst:45
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:33
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:38
+msgid "`Amazon.de <https://amzn.to/4gdnuPU>`_"
+msgstr "`Amazon.de <https://amzn.to/4gdnuPU>`_"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:35
+msgid "Stromversorgung, zum Beispiel USB-Netzteil, Powerbank oder Solarlösung"
+msgstr "Power supply, for example a USB power adapter, power bank or solar solution"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:36
+msgid "microSD-Karte"
+msgstr "microSD card"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:40
+msgid "Gehäuse oder 3D-Druckteile"
+msgstr "Housing or 3D-printed parts"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:42
+msgid "`Thingiverse <https://www.thingiverse.com/thing:7349629>`_ (kostenlos)"
+msgstr "`Thingiverse <https://www.thingiverse.com/thing:7349629>`_ (free)"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:43
 msgid ""
-"Eine konkrete Stückliste mit Bezugslinks und Mengenangaben wird hier "
-"ergänzt. Die exakten Bauteile hängen von der gewählten Hardware-Revision "
-"ab."
+"`Printables <https://www.printables.com/model/1714933-hivora-sense-ai-"
+"asian-hornet-bait-station>`_ (kostenlos)"
 msgstr ""
+"`Printables <https://www.printables.com/model/1714933-hivora-sense-ai-"
+"asian-hornet-bait-station>`_ (free)"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:45
+msgid "optional Kabelbinder oder anderes Befestigungsmaterial"
+msgstr "optionally cable ties or other mounting hardware"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:49
+msgid ""
+"Beim **Seeed Studio XIAO ESP32-S3 Sense** sind alle Teile (Hauptplatine, "
+"Kameraplatine, Kühlkörper, WiFi-Antenne) enthalten – mit Ausnahme der SD-"
+"Karte."
+msgstr ""
+"With the **Seeed Studio XIAO ESP32-S3 Sense**, all parts (main board, "
+"camera board, heat sink, Wi-Fi antenna) are included – with the exception "
+"of the SD card."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:54
+msgid "Benötigte Werkzeuge"
+msgstr "Required tools"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:56
+msgid "Je nach Aufbau können hilfreich sein:"
+msgstr "Depending on your build, the following may be helpful:"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:58
+msgid "3D-Drucker oder Zugriff auf gedruckte Teile"
+msgstr "A 3D printer or access to printed parts"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:59
+msgid "Computer mit Internetzugang und USB-C-Anschluss oder Adapter"
+msgstr "A computer with internet access and a USB-C port or adapter"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:60
+msgid "Smartphone oder Laptop zum Testen der Verbindung"
+msgstr "A smartphone or laptop to test the connection"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:62
+msgid ""
+"Kein 3D-Drucker? Kein Problem! In Deutschland gibt es unzählige Vereine, "
+"Maker Spaces oder andere Organisationen mit Zugang zu 3D-Druckern. Solche"
+" Orte findet man auf der Karte unter https://maker-faire.de/makerspaces/."
+msgstr ""
+"No 3D printer? No problem! In Germany there are countless clubs, maker "
+"spaces or other organizations with access to 3D printers. You can find "
+"such places on the map at https://maker-faire.de/makerspaces/."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:67
+msgid "3D-Druck"
+msgstr "3D printing"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:71
+msgid ""
+"Für den Außeneinsatz sind Materialien wie **PETG** oder **ASA** meist "
+"besser geeignet als PLA. PLA kann sich bei Wärme verformen und ist "
+"langfristig draußen weniger robust."
+msgstr ""
+"For outdoor use, materials such as **PETG** or **ASA** are usually better "
+"suited than PLA. PLA can deform in heat and is less robust outdoors over "
+"the long term."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:75
+msgid ""
+"Ständer und Gehäuseteile müssen mit Support gedruckt werden. Beim Dach "
+"wird ein Brim von 5 mm empfohlen, um eine bessere Haftung am Druckbett zu"
+" erhalten."
+msgstr ""
+"The stand and housing parts must be printed with support. For the roof, a "
+"5 mm brim is recommended to achieve better adhesion to the print bed."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:78
+msgid ""
+"Orientierungshilfe zum Ausrichten der Teile auf dem Druckbett des 3D-"
+"Druckers:"
+msgstr ""
+"Orientation guide for aligning the parts on the print bed of the 3D "
+"printer:"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:80
+msgid "Orientierung der Teile auf dem Druckbett"
+msgstr "Orientation of the parts on the print bed"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/material.rst:84
+msgid ""
+"Die Druckdateien stehen kostenlos auf `Thingiverse "
+"<https://www.thingiverse.com/thing:7349629>`_ und `Printables "
+"<https://www.printables.com/model/1714933-hivora-sense-ai-asian-hornet-"
+"bait-station>`_ zur Verfügung."
+msgstr ""
+"The print files are available for free on `Thingiverse "
+"<https://www.thingiverse.com/thing:7349629>`_ and `Printables "
+"<https://www.printables.com/model/1714933-hivora-sense-ai-asian-hornet-"
+"bait-station>`_."
+
+#~ msgid ""
+#~ "Dieser Abschnitt listet auf, welches "
+#~ "Material für den Aufbau einer Hivora-"
+#~ "Sense-Station benötigt wird und wo "
+#~ "es bezogen werden kann."
+#~ msgstr ""
+
+#~ msgid "Benötigtes Material"
+#~ msgstr ""
+
+#~ msgid "Elektronik"
+#~ msgstr ""
+
+#~ msgid "Mikrocontroller-Board (ESP32-basiert) als AI-Edge-Recheneinheit."
+#~ msgstr ""
+
+#~ msgid "Kameramodul zur Bilderfassung an der Wick Trap."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**Wägezelle** (Load Cell) inkl. Messverstärker"
+#~ " zur Last-/Aktivitätsmessung."
+#~ msgstr ""
+
+#~ msgid "**Temperatursensor** zur Umgebungsüberwachung."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Verkabelung, Steckverbinder und Stromversorgung "
+#~ "(USB-Netzteil oder Akku)."
+#~ msgstr ""
+
+#~ msgid "Mechanik / Gehäuse"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "3D-gedruckte Gehäuse- und Halteteile "
+#~ "(**PETG** oder **ASA** für den "
+#~ "Außeneinsatz)."
+#~ msgstr ""
+
+#~ msgid "Befestigungsmaterial (Schrauben, Muttern, Kabelbinder)."
+#~ msgstr ""
+
+#~ msgid "Wick Trap (Locktopf) als Basis der Station."
+#~ msgstr ""
+
+#~ msgid "Werkzeug"
+#~ msgstr ""
+
+#~ msgid "3D-Drucker (FDM) für die Gehäuseteile."
+#~ msgstr ""
+
+#~ msgid "Lötkolben und Lötzubehör für die Sensorverdrahtung."
+#~ msgstr ""
+
+#~ msgid "USB-Datenkabel für die Software-Installation."
+#~ msgstr ""
+
+#~ msgid "Wo bekomme ich das Material"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**Elektronikkomponenten**: über gängige "
+#~ "Elektronik-Distributoren (z. B. Reichelt, "
+#~ "Berrybase, AZ-Delivery) oder direkt beim"
+#~ " Hersteller."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**3D-Druckteile**: Die Druckdateien (STL/STEP)"
+#~ " werden im Projekt-Repository "
+#~ "bereitgestellt; der Druck kann selbst "
+#~ "oder über einen 3D-Druckdienst erfolgen."
+#~ msgstr ""
+
+#~ msgid "**Filament (PETG/ASA)**: über Filament-Fachhändler."
+#~ msgstr ""
+
+#~ msgid "**Wick Trap / Locktopf**: über den Imkerei-Fachhandel."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Eine konkrete Stückliste mit Bezugslinks "
+#~ "und Mengenangaben wird hier ergänzt. Die"
+#~ " exakten Bauteile hängen von der "
+#~ "gewählten Hardware-Revision ab."
+#~ msgstr ""
 

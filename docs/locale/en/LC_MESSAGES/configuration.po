@@ -22,31 +22,33 @@ msgstr ""
 
 #: ../../source/configuration.rst:2
 msgid "Konfiguration"
-msgstr ""
+msgstr "Configuration"
 
 #: ../../source/configuration.rst:4
 msgid ""
 "Dieser Abschnitt dient als Platzhalter für Gerätekonfiguration, "
 "Betriebsmodi und Schwellenwerte."
 msgstr ""
+"This section serves as a placeholder for device configuration, operating "
+"modes, and thresholds."
 
 #: ../../source/configuration.rst:6
 msgid "Geplante Inhalte:"
-msgstr ""
+msgstr "Planned content:"
 
 #: ../../source/configuration.rst:8
 msgid "Netzwerk- und Konnektivitätseinstellungen"
-msgstr ""
+msgstr "Network and connectivity settings"
 
 #: ../../source/configuration.rst:9
 msgid "Sensorkalibrierung und KI-Schwellenwerte"
-msgstr ""
+msgstr "Sensor calibration and AI thresholds"
 
 #: ../../source/configuration.rst:10
 msgid "Telemetrie- und Logging-Optionen"
-msgstr ""
+msgstr "Telemetry and logging options"
 
 #: ../../source/configuration.rst:11
 msgid "Update-Strategie (OTA/Web-Installer)"
-msgstr ""
+msgstr "Update strategy (OTA/web installer)"
 

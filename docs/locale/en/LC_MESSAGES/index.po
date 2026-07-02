@@ -22,19 +22,21 @@ msgstr ""
 
 #: ../../source/index.rst:10
 msgid "Inhalte"
-msgstr ""
+msgstr "Contents"
 
 #: ../../source/index.rst:2
 msgid "Hivora Sense Dokumentation"
-msgstr ""
+msgstr "Hivora Sense Documentation"
 
 #: ../../source/index.rst:4
 msgid "Hivora Sense Overview"
-msgstr ""
+msgstr "Hivora Sense Overview"
 
 #: ../../source/index.rst:8
 msgid ""
 "Willkommen zur technischen Dokumentation von **Hivora Sense: AI Edge "
 "Monitoring for Asian Hornet Wick Traps**."
 msgstr ""
+"Welcome to the technical documentation for **Hivora Sense: AI Edge "
+"Monitoring for Asian Hornet Wick Traps**."
 

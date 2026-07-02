@@ -22,57 +22,56 @@ msgstr ""
 
 #: ../../source/terminology.rst:2
 msgid "Terminologie"
-msgstr ""
+msgstr "Terminology"
 
 #: ../../source/terminology.rst:4
 msgid "Mehrsprachige Schlüsselbegriffe"
-msgstr ""
+msgstr "Multilingual key terms"
 
 #: ../../source/terminology.rst:7
 msgid "Deutsch"
-msgstr ""
+msgstr "German"
 
 #: ../../source/terminology.rst:8
 msgid "Englisch"
-msgstr ""
+msgstr "English"
 
 #: ../../source/terminology.rst:9
 msgid "Französisch"
-msgstr ""
+msgstr "French"
 
 #: ../../source/terminology.rst:10
 msgid "Locktopf"
-msgstr ""
+msgstr "Locktopf"
 
 #: ../../source/terminology.rst:11
 msgid "Wick Trap"
-msgstr ""
+msgstr "Bait station"
 
 #: ../../source/terminology.rst:12
 msgid "Piège à mèche"
-msgstr ""
+msgstr "Piège à mèche"
 
 #: ../../source/terminology.rst:13
 msgid "Asiatische Hornisse"
-msgstr ""
+msgstr "Asiatische Hornisse"
 
 #: ../../source/terminology.rst:14
 msgid "Asian Hornet"
-msgstr ""
+msgstr "Asian Hornet"
 
 #: ../../source/terminology.rst:15
 msgid "Frelon asiatique"
-msgstr ""
+msgstr "Frelon asiatique"
 
 #: ../../source/terminology.rst:16
 msgid "KI-Edge-Monitoring"
-msgstr ""
+msgstr "KI-Edge-Monitoring"
 
 #: ../../source/terminology.rst:17
 msgid "AI Edge Monitoring"
-msgstr ""
+msgstr "AI Edge Monitoring"
 
 #: ../../source/terminology.rst:18
 msgid "Supervision IA en périphérie"
-msgstr ""
-
+msgstr "Supervision IA en périphérie"

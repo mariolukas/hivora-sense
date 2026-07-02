@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hivora Sense \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-01 18:53+0200\n"
+"POT-Creation-Date: 2026-07-02 10:55+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -20,45 +20,397 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.18.0\n"
 
-#: ../../source/hardware_setup.rst:2
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:2
 msgid "Aufbau Hardware"
-msgstr ""
+msgstr "Hardware Assembly"
 
-#: ../../source/hardware_setup.rst:4
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:4
 msgid ""
 "Dieser Abschnitt beschreibt den mechanischen und elektronischen Aufbau "
-"der Hivora-Sense-Station."
+"der Hivora-Sense-Station. Der Aufbau besteht grob aus diesen Schritten:"
 msgstr ""
+"This section describes the mechanical and electronic assembly of the "
+"Hivora Sense station. The build roughly consists of these steps:"
 
-#: ../../source/hardware_setup.rst:7
-msgid "3D-Druck (Platzhalter)"
-msgstr ""
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:7
+msgid "Locktopf vorbereiten"
+msgstr "Prepare the bait station"
 
-#: ../../source/hardware_setup.rst:9
-msgid "Empfohlene Materialien: **PETG** oder **ASA** für Außenanwendungen."
-msgstr ""
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:8
+msgid "Hivora Sense Aufbau"
+msgstr "Hivora Sense assembly"
 
-#: ../../source/hardware_setup.rst:10
-msgid "Platzhalter für Druckprofile (Layerhöhe, Infill, Wandstärke)."
-msgstr ""
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:9
+msgid "Software installieren (siehe :doc:`software_installation`)"
+msgstr "Install the software (see :doc:`software_installation`)"
 
-#: ../../source/hardware_setup.rst:11
-msgid "Platzhalter für STL/STEP-Dateien und Bauteilorientierung."
-msgstr ""
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:10
+msgid "Gerät testen (siehe :doc:`troubleshooting`)"
+msgstr "Test the device (see :doc:`troubleshooting`)"
 
-#: ../../source/hardware_setup.rst:14
-msgid "Sensor-Assembly (Platzhalter)"
-msgstr ""
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:13
+msgid "1. Locktopf vorbereiten"
+msgstr "1. Prepare the bait station"
 
-#: ../../source/hardware_setup.rst:16
-msgid "Integration der **Wägezelle** (Scale) zur Last-/Aktivitätsmessung."
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:15
+msgid ""
+"Zunächst wird der Locktopf selbst vorbereitet. Im Prinzip kann jedes "
+"geeignete Gefäß dazu genutzt werden. Der Hivora-Sense-Aufbau ist "
+"standardgemäß auf die Verwendung von Urinbechern ausgelegt, so wie sie "
+"oft auch sonst verbaut werden."
 msgstr ""
+"First, prepare the bait station itself. In principle, any suitable vessel "
+"can be used for this. By default, the Hivora Sense build is designed for "
+"the use of urine cups, as they are often used elsewhere too."
 
-#: ../../source/hardware_setup.rst:17
-msgid "Integration des **Temperatursensors** (Temp) zur Umgebungsüberwachung."
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:19
+msgid ""
+"Da es bereits unzählige Aufbauanleitungen im Internet gibt, gehen wir "
+"hier nicht weiter auf den Grundaufbau ein. Eine sehr detaillierte "
+"Beschreibung zu Locktöpfen gibt es bei der Velutina Army: https"
+"://velutina-army.de/locktopf/"
 msgstr ""
+"Since there are already countless build instructions on the internet, we "
+"will not go into the basic build any further here. A very detailed "
+"description of bait stations is available from the Velutina Army: https"
+"://velutina-army.de/locktopf/"
 
-#: ../../source/hardware_setup.rst:18
-msgid "Platzhalter für Verdrahtungsplan und Kalibrierungsablauf."
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:23
+msgid "Einige Aufbauten unter Verwendung von Urinbechern:"
+msgstr "Some builds using urine cups:"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:25
+msgid ""
+"`SWR: Locktopf basteln <https://www.swr.de/swraktuell/baden-"
+"wuerttemberg/karlsruhe/asiatische-hornisse-kampf-gegen-invasion-locktopf-"
+"basteln-100.html>`_"
 msgstr ""
+"`SWR: Building a bait station <https://www.swr.de/swraktuell/baden-"
+"wuerttemberg/karlsruhe/asiatische-hornisse-kampf-gegen-invasion-locktopf-"
+"basteln-100.html>`_"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:26
+msgid ""
+"`Velutina-Service: Effektive Ködermischungen <https://www.velutina-"
+"service.com/2024/09/02/effektive-koedermischungen-zur-"
+"hornissenueberwachung-dochttoepfe-in-aktion/>`_"
+msgstr ""
+"`Velutina-Service: Effective bait mixtures <https://www.velutina-"
+"service.com/2024/09/02/effektive-koedermischungen-zur-"
+"hornissenueberwachung-dochttoepfe-in-aktion/>`_"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:28
+msgid ""
+"Hier noch eine geeignete Halterung für Rohrmontage, beispielsweise für "
+"den Balkon: https://cbrell.de/blog/vespa-velutina-locktopf-halterung/"
+msgstr ""
+"Here is also a suitable mount for pole mounting, for example on a "
+"balcony: https://cbrell.de/blog/vespa-velutina-locktopf-halterung/"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:32
+msgid "2. Hivora Sense Aufbau"
+msgstr "2. Hivora Sense assembly"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:34
+msgid "Das Gehäuse schützt Elektronik und Kamera vor Witterung. Wichtige Punkte:"
+msgstr ""
+"The housing protects the electronics and camera from the weather. "
+"Important points:"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:36
+msgid "Schutz vor Regen"
+msgstr "Protection from rain"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:37
+msgid "Schutz vor direkter Feuchtigkeit"
+msgstr "Protection from direct moisture"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:38
+msgid "ausreichende Belüftung gegen Kondensation"
+msgstr "sufficient ventilation against condensation"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:39
+msgid "stabile Befestigung"
+msgstr "stable mounting"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:40
+msgid "zugänglicher USB-C-Anschluss"
+msgstr "accessible USB-C port"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:41
+msgid "Sichtöffnung für die Kamera"
+msgstr "Viewing opening for the camera"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:42
+msgid "Möglichkeit zur späteren Wartung"
+msgstr "Option for later maintenance"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:44
+msgid "Gehäuse für Elektronik und Kamera"
+msgstr "Housing for electronics and camera"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:49
+msgid "Sensor zusammenbauen"
+msgstr "Assemble the sensor"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:51
+msgid ""
+"Zunächst muss der Sensor **Seeed Studio XIAO ESP32-S3 Sense** "
+"zusammengebaut werden. Alle Teile müssen bereitliegen. Alle Teile bis auf"
+" die SD-Karte sind beim Controller enthalten."
+msgstr ""
+"First, the **Seeed Studio XIAO ESP32-S3 Sense** sensor must be assembled. "
+"Have all parts ready. All parts except the SD card are included with the "
+"controller."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:55
+msgid "kleine Hauptplatine mit USB-C-Anschluss"
+msgstr "small main board with USB-C port"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:56
+msgid "kleine Kameraplatine"
+msgstr "small camera board"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:57
+msgid "Kühlkörper"
+msgstr "heat sink"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:58
+msgid "WiFi-Antenne"
+msgstr "Wi-Fi antenna"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:59
+msgid "SD-Karte (nicht enthalten beim Seeed Studio XIAO ESP32-S3 Sense)"
+msgstr "SD card (not included with the Seeed Studio XIAO ESP32-S3 Sense)"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:61
+msgid "Seeed Studio XIAO ESP32-S3 Sense im Auslieferungszustand"
+msgstr "Seeed Studio XIAO ESP32-S3 Sense as delivered"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:67
+msgid ""
+"Im Auslieferungszustand ist auf der Linse noch eine kleine Schutzfolie, "
+"diese muss natürlich vorher entfernt werden."
+msgstr ""
+"As delivered, there is still a small protective film on the lens, which of "
+"course must be removed beforehand."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:70
+msgid ""
+"Anschließend beginnt man damit, die WLAN-Antenne an die kleine "
+"Hauptplatine mit USB-C-Anschluss zu stecken. Der Anschluss befindet sich "
+"an der oberen rechten Kante der Hauptplatine (wenn die USB-C-Buchse nach "
+"unten zeigt). Mit leichtem Druck wird die Verbindung hergestellt. Die "
+"Antenne muss eine feste Verbindung haben."
+msgstr ""
+"Next, start by plugging the Wi-Fi antenna into the small main board with "
+"the USB-C port. The connector is located at the top right edge of the "
+"main board (when the USB-C socket is facing down). Apply light pressure to "
+"make the connection. The antenna must be firmly connected."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:76
+msgid "Einzelteile des Seeed XIAO ESP32-Sense Sets"
+msgstr "Individual parts of the Seeed XIAO ESP32-Sense set"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:80
+msgid "WiFi-Antenne anbringen"
+msgstr "Attach the Wi-Fi antenna"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:84
+msgid ""
+"Danach werden die kleine Hauptplatine mit USB-C-Anschluss und die "
+"Kameraplatine miteinander verbunden. Auf beiden Platinen ist dazu ein "
+"Verbinder vorgesehen. Beide Teile werden mit sanftem Druck "
+"aufeinandergesteckt. Abschließend wird die SD-Karte in den Slot unter dem"
+" Kameramodul geschoben. Die SD-Karte ragt dabei aus dem Slot heraus (es "
+"handelt sich nicht um einen Slot, in welchem die SD-Karte vollständig "
+"versenkt werden kann!)."
+msgstr ""
+"After that, connect the small main board with the USB-C port and the "
+"camera board together. Both boards have a connector for this purpose. Push "
+"the two parts together with gentle pressure. Finally, slide the SD card "
+"into the slot beneath the camera module. The SD card protrudes from the "
+"slot (this is not a slot in which the SD card can be fully recessed!)."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:91
+msgid "Beide PCBs miteinander verbinden"
+msgstr "Connect the two PCBs together"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:95
+msgid "PCB-Stack bereit"
+msgstr "PCB stack ready"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:99
+msgid "SD-Karte unter dem Kameramodul einführen"
+msgstr "Insert the SD card beneath the camera module"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:104
+msgid "Kamera in das Gehäuse einbauen"
+msgstr "Install the camera into the housing"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:106
+msgid ""
+"Die Kamera wird von beiden Gehäuseteilen eingefasst. Am einfachsten "
+"funktioniert das, indem man die Kamera in eines der beiden Gehäuseteile "
+"steckt. Dann führt man vorsichtig das zweite Gehäuseteil zu und verklemmt"
+" mit sanftem Druck beide Gehäuseteile miteinander. Auf der "
+"entgegengesetzten Seite des USB-C-Anschlusses befindet sich am Gehäuse "
+"eine Durchführung für die WiFi-Antenne. Zum Schluss kann der Kühlkörper "
+"an das Kameramodul geklebt werden. Hierzu kann die dafür vorgesehene "
+"Öffnung im Gehäuse verwendet werden."
+msgstr ""
+"The camera is enclosed by both housing parts. The easiest way to do this "
+"is to place the camera into one of the two housing parts. Then carefully "
+"bring the second housing part into place and clamp both housing parts "
+"together with gentle pressure. On the side opposite the USB-C port, the "
+"housing has a pass-through for the Wi-Fi antenna. Finally, the heat sink "
+"can be glued to the camera module. You can use the opening provided in the "
+"housing for this purpose."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:114
+msgid "XIAO Sense Board in das Gehäuse einbauen"
+msgstr "Install the XIAO Sense board into the housing"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:118
+msgid "WiFi-Kabel in der Aussparung anbringen"
+msgstr "Place the Wi-Fi cable in the recess"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:122
+msgid "Kühlkörper anbringen"
+msgstr "Attach the heat sink"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:127
+msgid "Kamera am Ständer montieren"
+msgstr "Mount the camera on the stand"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:129
+msgid ""
+"Das so zusammengebaute Kameragehäuse wird nun oben in die obere "
+"Aussparung des Ständers gedrückt. Dabei sind USB-C-Anschluss und SD-Karte"
+" nach hinten gerichtet."
+msgstr ""
+"The assembled camera housing is now pressed into the upper recess at the "
+"top of the stand. The USB-C port and SD card face toward the rear."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:132
+msgid "Kameragehäuse in den Ständer einsetzen"
+msgstr "Insert the camera housing into the stand"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:136
+msgid "USB-C-Kabel durch die Gabelung führen"
+msgstr "Route the USB-C cable through the fork"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:140
+msgid ""
+"Die Kamera wird nun gegen Herausrutschen mittels des Kamera-Clips "
+"fixiert. Der Clip wird dabei von vorne über Kamera und Stativ geschoben. "
+"Die Seite mit der kleineren Aussparung am Clip zeigt dabei nach oben und "
+"umfasst den Kühlkörper der Kamera. Der Ständer kann nun mit dem Locktopf-"
+"Befestigungsring verbunden werden. Dazu wird der Ständer in die dafür "
+"vorgesehene Nut im Locktopf-Befestigungsring geschoben."
+msgstr ""
+"The camera is now secured against slipping out using the camera clip. The "
+"clip is pushed from the front over the camera and stand. The side with the "
+"smaller recess on the clip faces upward and encloses the camera's heat "
+"sink. The stand can now be connected to the bait station mounting ring. To "
+"do so, slide the stand into the groove provided in the bait station "
+"mounting ring."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:147
+msgid "Kamera-Clip fixieren (siehe Hinweis)"
+msgstr "Secure the camera clip (see note)"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:151
+msgid "Ständer mit Befestigungsring verbinden"
+msgstr "Connect the stand to the mounting ring"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:155
+msgid "Detail Befestigung"
+msgstr "Mounting detail"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:161
+msgid ""
+"Das Teil mit den Aussparungen, welches über die Kamera geschoben wird, "
+"muss genau um 180° gedreht werden. Die Abbildung ist hier falsch. Die "
+"Seite mit der längeren Aussparung muss über den Kühlkörper geschoben "
+"werden."
+msgstr ""
+"The part with the recesses that is pushed over the camera must be rotated "
+"by exactly 180°. The illustration is incorrect here. The side with the "
+"longer recess must be pushed over the heat sink."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:166
+msgid "USB-C-Kabel verbinden und Dach anbringen"
+msgstr "Connect the USB-C cable and attach the roof"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:168
+msgid ""
+"Das USB-C-Kabel kann nun mit der Kamera verbunden werden. Dabei wird das "
+"Kabel durch die „Gabelung“ nach hinten weg am Ständer geführt."
+msgstr ""
+"The USB-C cable can now be connected to the camera. The cable is routed "
+"through the \"fork\" toward the rear away from the stand."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:171
+msgid "USB-C-Kabel mit der Kamera verbinden"
+msgstr "Connect the USB-C cable to the camera"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:175
+msgid "Kabeldurchführung unter dem Dach"
+msgstr "Cable pass-through beneath the roof"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:179
+msgid ""
+"Abschließend wird das Dach angebracht. Auch hier wieder auf die "
+"USB-C-Kabeldurchführung achten. Das Kabel kann dabei vorsichtig nach "
+"unten entlang des Ständers gehalten werden."
+msgstr ""
+"Finally, attach the roof. Again, pay attention to the USB-C cable "
+"pass-through. The cable can be held carefully downward along the stand."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:183
+msgid ""
+"Der Aufbau ist nun einsatzbereit und die Software kann installiert "
+"werden. Zur Stromversorgung kann ein USB-C-Ladegerät verwendet werden."
+msgstr ""
+"The build is now ready for use and the software can be installed. A USB-C "
+"charger can be used for power supply."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:186
+msgid "Dach anbringen"
+msgstr "Attach the roof"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/hardware_setup.rst:190
+msgid "Fertiger Locktopf"
+msgstr "Finished bait station"
+
+#~ msgid ""
+#~ "Dieser Abschnitt beschreibt den mechanischen"
+#~ " und elektronischen Aufbau der Hivora-"
+#~ "Sense-Station."
+#~ msgstr ""
+
+#~ msgid "3D-Druck (Platzhalter)"
+#~ msgstr ""
+
+#~ msgid "Empfohlene Materialien: **PETG** oder **ASA** für Außenanwendungen."
+#~ msgstr ""
+
+#~ msgid "Platzhalter für Druckprofile (Layerhöhe, Infill, Wandstärke)."
+#~ msgstr ""
+
+#~ msgid "Platzhalter für STL/STEP-Dateien und Bauteilorientierung."
+#~ msgstr ""
+
+#~ msgid "Sensor-Assembly (Platzhalter)"
+#~ msgstr ""
+
+#~ msgid "Integration der **Wägezelle** (Scale) zur Last-/Aktivitätsmessung."
+#~ msgstr ""
+
+#~ msgid "Integration des **Temperatursensors** (Temp) zur Umgebungsüberwachung."
+#~ msgstr ""
+
+#~ msgid "Platzhalter für Verdrahtungsplan und Kalibrierungsablauf."
+#~ msgstr ""
 

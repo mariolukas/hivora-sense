@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hivora Sense \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-01 18:53+0200\n"
+"POT-Creation-Date: 2026-07-02 10:55+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -20,117 +20,650 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.18.0\n"
 
-#: ../../source/software_installation.rst:2
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:2
 msgid "Installation Software"
-msgstr ""
+msgstr "Software Installation"
 
-#: ../../source/software_installation.rst:4
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:4
 msgid ""
 "Die Firmware-Bereitstellung erfolgt über einen browserbasierten Cloud-"
-"Installer mit **WebSerial**."
+"Installer mit **WebSerial** auf `hivora.eu <https://hivora.eu/>`_."
 msgstr ""
+"The firmware is deployed via a browser-based cloud installer using "
+"**WebSerial** at `hivora.eu <https://hivora.eu/>`_."
 
-#: ../../source/software_installation.rst:7
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:8
 msgid "Voraussetzungen"
-msgstr ""
+msgstr "Requirements"
 
-#: ../../source/software_installation.rst:9
-msgid "Unterstützter Browser (z. B. aktuelles Chromium-basiertes Release)."
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:10
+msgid ""
+"fertig aufgebauter Hivora Sense Locktopf-Aufsatz (siehe "
+":doc:`hardware_setup`)"
 msgstr ""
+"a fully assembled Hivora Sense bait station attachment (see "
+":doc:`hardware_setup`)"
 
-#: ../../source/software_installation.rst:10
-msgid "USB-Datenkabel zwischen Rechner und Hivora-Sense-Gerät."
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:11
+msgid "Laptop oder anderer Computer mit Internetanschluss"
+msgstr "a laptop or other computer with an internet connection"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:12
+msgid "USB-Datenkabel zwischen Rechner und Kameramodul"
+msgstr "a USB data cable between the computer and the camera module"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:13
+msgid ""
+"mindestens ein kostenloser Account bei `hivora.eu "
+"<https://hivora.eu/?pk_campaign=aufbauanleitung_de&pk_source=discourse&pk_medium=forum>`_"
 msgstr ""
+"at least a free account at `hivora.eu "
+"<https://hivora.eu/?pk_campaign=aufbauanleitung_de&pk_source=discourse&pk_medium=forum>`_"
 
-#: ../../source/software_installation.rst:11
-msgid "Lokaler Zugriff auf die Installer-URL."
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:18
+msgid ""
+"Es wird empfohlen, `Google Chrome "
+"<https://www.google.com/intl/de_de/chrome/>`_ zu verwenden. Andere "
+"Chromium-basierte Browser funktionieren ebenfalls. Unter „Browser-"
+"Prüfung“ muss der Hinweis „Browser ist geeignet“ erscheinen."
 msgstr ""
+"It is recommended to use `Google Chrome "
+"<https://www.google.com/intl/de_de/chrome/>`_. Other Chromium-based "
+"browsers work as well. Under “Browser check”, the message “Browser is "
+"suitable” must appear."
 
-#: ../../source/software_installation.rst:14
-msgid "Schritt-für-Schritt"
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:23
+msgid "Locktopf in hivora.eu anlegen"
+msgstr "Create a bait station in hivora.eu"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:25
+msgid ""
+"Nach erfolgreicher Registrierung findet man auf der linken Seite im Menü "
+"den Punkt „Meine Locktöpfe“. Dort klickt man zunächst rechts auf die "
+"Schaltfläche „Locktopf hinzufügen“."
 msgstr ""
+"After successful registration, you will find the item “My bait stations” "
+"in the menu on the left. There, first click the “Add bait station” button "
+"on the right."
 
-#: ../../source/software_installation.rst:16
-#: ../../source/software_installation.rst:30
-msgid "Gerät per USB verbinden und einschalten."
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:29
+msgid "Locktopf hinzufügen"
+msgstr "Add bait station"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:33
+msgid "Es erscheint der Assistent zum Anlegen eines neuen Locktopfes."
+msgstr "The wizard for creating a new bait station appears."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:35
+msgid "Assistent zum Anlegen eines neuen Locktopfes"
+msgstr "Wizard for creating a new bait station"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:39
+msgid ""
+"Zunächst wählt man einen Namen. Dieser dient später nur zur "
+"Wiedererkennung des Locktopfes in der Übersichtsliste. In der Karte wählt"
+" man den Standort des Locktopfes."
 msgstr ""
+"First, choose a name. This is later used only to identify the bait "
+"station in the overview list. On the map, select the location of the "
+"bait station."
 
-#: ../../source/software_installation.rst:17
-msgid "Cloud-Installer im Browser öffnen."
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:45
+msgid ""
+"Der Standort ist wichtig, wenn man später zu den öffentlichen "
+"Sichtungsmeldungen beitragen möchte und wenn man in Kombination die "
+"`hornet-log.app <https://hornet-log.app>`_ Mobile App nutzen möchte, um "
+"Alarmierungen seines eigenen Locktopfes zu erhalten. Die Position des "
+"Locktopfs wird bei Verwendung der App jedes Mal bei einer Synchronisation"
+" mit der App aktualisiert und an den aktuellen Standort angepasst."
 msgstr ""
+"The location is important if you later want to contribute to the public "
+"sighting reports and if you also want to use the `hornet-log.app "
+"<https://hornet-log.app>`_ mobile app to receive alerts for your own bait "
+"station. When you use the app, the position of the bait station is updated "
+"and adjusted to the current location every time you synchronize with the "
+"app."
 
-#: ../../source/software_installation.rst:18
-msgid "Schaltfläche zum Verbinden über WebSerial wählen."
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:52
+msgid ""
+"Unten schaltet man noch ein, dass man zum öffentlichen Lagebild beitragen"
+" möchte (optional, aber sehr hilfreich für die Community). Den Schritt "
+"schließt man ab, indem man mittels der Schaltfläche „Installieren“ die "
+"Software auf das Gerät überträgt."
 msgstr ""
+"At the bottom, you can also enable that you want to contribute to the "
+"public situational picture (optional, but very helpful for the "
+"community). You complete this step by transferring the software to the "
+"device using the “Install” button."
 
-#: ../../source/software_installation.rst:19
-msgid "Den korrekten seriellen Port auswählen und Zugriff bestätigen."
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:57
+msgid "Software auf das Gerät übertragen"
+msgstr "Transferring the software to the device"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:62
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:68
+msgid "Firmware installieren"
+msgstr "Install firmware"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:64
+msgid ""
+"In Schritt 2 wird die Software (Firmware) auf den Seeed XIAO ESP32-S3 "
+"Sense (Kameramodul) installiert. Hierzu klickt man einfach auf die "
+"Schaltfläche „Installieren“."
 msgstr ""
+"In step 2, the software (firmware) is installed on the Seeed XIAO "
+"ESP32-S3 Sense (camera module). To do this, simply click the “Install” "
+"button."
 
-#: ../../source/software_installation.rst:20
-msgid "Ziel-Firmware auswählen und Flash-Vorgang starten."
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:72
+msgid ""
+"Es öffnet sich ein weiterer Dialog, welcher Details zur Software anzeigt."
+" Im Feld Umgebungsprüfung wird angezeigt, ob der verwendete Browser die "
+"USB-Anbindung unterstützt. Das orangene Label mit der Beschriftung "
+"„Umgebung unterstützt“ bedeutet, dass man fortfahren kann, indem man auf "
+"„Installation starten“ klickt."
 msgstr ""
+"Another dialog opens, showing details about the software. The environment "
+"check field indicates whether the browser you are using supports the USB "
+"connection. The orange label reading “Environment supported” means that "
+"you can continue by clicking “Start installation”."
 
-#: ../../source/software_installation.rst:21
-#: ../../source/software_installation.rst:33
-msgid "Abschlussmeldung abwarten und Gerät neu starten."
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:79
+msgid ""
+"Mittels „Locktopf komplett zurücksetzen“ werden vorherige Software-"
+"Installationen auf der Platine vor der Installation wieder gelöscht. Dies"
+" beinhaltet auch alle Pins, Namen etc. Daten, welche sich bereits auf der"
+" SD-Karte befinden, bleiben unberührt."
 msgstr ""
+"Using “Completely reset bait station”, previous software installations on "
+"the board are deleted before installation. This also includes all PINs, "
+"names, etc. Data already stored on the SD card remains untouched."
 
-#: ../../source/software_installation.rst:22
-msgid "Nach dem Neustart Basisfunktion (Status/Erkennung) prüfen."
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:84
+msgid "Umgebungsprüfung"
+msgstr "Environment check"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:88
+msgid ""
+"Es öffnet sich ein Browserfenster, das anzeigt, dass die Webseite Zugriff"
+" auf den USB-Anschluss anfordert. Wählen Sie in dem angezeigten Kasten "
+"die USB-Verbindung des Controllers aus. In der Regel ist dies, wie im "
+"Bild zu sehen, ein Eintrag wie „usbmodem3101“."
 msgstr ""
+"A browser window opens indicating that the website is requesting access "
+"to the USB port. In the box shown, select the USB connection of the "
+"controller. As a rule, this is an entry like “usbmodem3101”, as shown in "
+"the image."
 
-#: ../../source/software_installation.rst:25
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:95
+msgid ""
+"Wenn hier mehrere Geräte aufgelistet werden, sollten alle anderen USB-"
+"Geräte vom Computer getrennt werden. Danach sollte nur noch das "
+"Kameramodul übrig bleiben."
+msgstr ""
+"If several devices are listed here, all other USB devices should be "
+"disconnected from the computer. After that, only the camera module should "
+"remain."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:99
+msgid ""
+"Anschließend klicken Sie auf „Verbinden“. Die Übertragung der Software "
+"beginnt, und die Software wird auf dem Kameramodul installiert. Dieser "
+"Vorgang kann einen Moment dauern."
+msgstr ""
+"Then click “Connect”. The software transfer begins, and the software is "
+"installed on the camera module. This process may take a moment."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:103
+msgid "USB-Verbindung des Controllers auswählen"
+msgstr "Selecting the USB connection of the controller"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:107
+msgid ""
+"Nach der Installation kann das Fenster über die Schaltfläche „Schließen“ "
+"geschlossen werden."
+msgstr ""
+"After installation, the window can be closed using the “Close” button."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:110
+msgid ""
+"Anschließend muss das Kameramodul einmal vom Strom getrennt werden. "
+"Ziehen Sie dazu den USB-C-Stecker aus dem Computer. Nach ein paar "
+"Sekunden kann der Stecker wieder eingesteckt werden. Das Kameramodul "
+"startet nun neu und lädt die eben übertragene Software."
+msgstr ""
+"The camera module then has to be disconnected from power once. To do "
+"this, unplug the USB-C connector from the computer. After a few seconds, "
+"the connector can be plugged in again. The camera module now restarts and "
+"loads the software you just transferred."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:116
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:128
+msgid "Betriebsmodus wählen"
+msgstr "Select operating mode"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:118
+msgid ""
+"In Schritt 3 wird festgelegt, wie der Locktopf betrieben werden soll: "
+"entweder im Offline-Betrieb, also an einem Standort ohne aktive "
+"Internetverbindung, oder im lokalen WLAN, zum Beispiel zu Hause im "
+"Garten."
+msgstr ""
+"In step 3, you define how the bait station should be operated: either in "
+"offline operation, i.e. at a location without an active internet "
+"connection, or on the local Wi-Fi, for example at home in the garden."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:124
+msgid ""
+"Für den Offline-Betrieb kann die App `hornet-log.app <https://hornet-"
+"log.app>`_ verwendet werden. Diese ermöglicht die Synchronisation des "
+"Locktopfs."
+msgstr ""
+"For offline operation, the `hornet-log.app <https://hornet-log.app>`_ app "
+"can be used. It enables synchronization of the bait station."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:132
+msgid "Man wählt also „Offline mit der App“ und klickt weiter."
+msgstr "So you select “Offline with the app” and click Next."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:134
+msgid "Offline mit der App"
+msgstr "Offline with the app"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:138
+msgid ""
+"Dieser Schritt wird zunächst offen gelassen. Bevor die Einrichtung "
+"abgeschlossen werden kann, muss zunächst mit der Installation der App "
+"fortgefahren werden."
+msgstr ""
+"This step is left open for now. Before the setup can be finished, you "
+"first have to continue with the installation of the app."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:142
+msgid "Offline mit der HornetLog App"
+msgstr "Offline with the HornetLog app"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:146
+msgid ""
+"Für die folgenden Schritte ist die HornetLog App in Version 1.3.0 "
+"erforderlich. Ältere Versionen unterstützen Locktöpfe noch nicht. Bei "
+"Installationen ab dem 26.06.2026 ist Version 1.3.0 bereits installiert."
+msgstr ""
+"For the following steps, the HornetLog app in version 1.3.0 is required. "
+"Older versions do not yet support bait stations. For installations from "
+"26.06.2026 onwards, version 1.3.0 is already installed."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:150
+msgid ""
+"Installieren Sie nun die App auf Ihrem Smartphone. Sie finden die App "
+"unter dem Namen „HornetLog“ im Apple App Store und bei Google Play. Am "
+"schnellsten geht es, indem Sie den passenden QR-Code mit der Kamera Ihres"
+" Smartphones scannen:"
+msgstr ""
+"Now install the app on your smartphone. You will find the app under the "
+"name “HornetLog” in the Apple App Store and on Google Play. The quickest "
+"way is to scan the appropriate QR code with your smartphone's camera:"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:181
+msgid ""
+"Nachdem die App installiert und geöffnet wurde, wechseln Sie in der "
+"unteren Navigationsleiste in den Bereich „Mehr“."
+msgstr ""
+"After the app has been installed and opened, switch to the “More” section "
+"in the bottom navigation bar."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:184
+msgid "Bereich „Mehr“ in der App"
+msgstr "The “More” section in the app"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:188
+msgid ""
+"Dort finden Sie den Punkt „Meine Hivora Sense Locktöpfe“. Wählen Sie "
+"diesen Punkt aus. Die App wechselt nun zur Übersichtsseite der Locktöpfe."
+msgstr ""
+"There you will find the item “My Hivora Sense bait stations”. Select this "
+"item. The app now switches to the overview page of the bait stations."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:191
+msgid ""
+"Über das „+“-Icon unten rechts kann ein neuer Locktopf hinzugefügt "
+"werden. Nach dem Tippen auf „+“ erscheint eine Seite, auf der entweder "
+"der QR-Code gescannt oder die Geräte-ID und PIN direkt eingegeben werden "
+"können."
+msgstr ""
+"A new bait station can be added using the “+” icon at the bottom right. "
+"After tapping “+”, a page appears where you can either scan the QR code or "
+"enter the device ID and PIN directly."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:195
+msgid "Locktopf per QR-Code oder Geräte-ID hinzufügen"
+msgstr "Adding a bait station via QR code or device ID"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:199
+msgid ""
+"Besonders unkompliziert und ohne Tippfehler geht es über den QR-Code "
+"weiter. Tippen Sie dazu auf „QR-Code scannen“. Anschließend wird die "
+"Kamera des Smartphones geöffnet."
+msgstr ""
+"Continuing via the QR code is particularly straightforward and avoids "
+"typing errors. To do this, tap “Scan QR code”. The smartphone's camera "
+"then opens."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:203
+msgid ""
+"Nun muss im noch geöffneten Dialog im hivora.eu-Account der QR-Code mit "
+"der App gescannt werden. Anschließend erscheint der Locktopf automatisch "
+"in der Liste der Locktöpfe in der App."
+msgstr ""
+"Now, in the dialog still open in your hivora.eu account, scan the QR code "
+"with the app. The bait station then automatically appears in the list of "
+"bait stations in the app."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:207
+msgid ""
+"Sollten Sie bereits voreilig auf „Einrichtung abschließen“ geklickt "
+"haben, können Sie den Dialog mit dem QR-Code jederzeit über das Stift-"
+"Symbol wieder öffnen."
+msgstr ""
+"If you have already prematurely clicked “Finish setup”, you can reopen the "
+"dialog with the QR code at any time via the pencil icon."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:210
+msgid "Dialog über das Stift-Symbol erneut öffnen"
+msgstr "Reopening the dialog via the pencil icon"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:214
+msgid "Ab jetzt kann man den Locktopf jederzeit über die App synchronisieren."
+msgstr "From now on, you can synchronize the bait station via the app at any time."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:216
+msgid "Locktopf synchronisieren"
+msgstr "Synchronize bait station"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:220
+msgid ""
+"Zum Synchronisieren tippen Sie auf die Schaltfläche „Sync“. Dabei werden "
+"folgende Daten synchronisiert:"
+msgstr ""
+"To synchronize, tap the “Sync” button. The following data is synchronized "
+"in the process:"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:223
+msgid "alle Bilder von der SD-Karte des Locktopfs in die App"
+msgstr "all images from the bait station's SD card into the app"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:224
+msgid "die Uhrzeit des Smartphones zum Locktopf"
+msgstr "the smartphone's time to the bait station"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:225
+msgid "der Standort des Smartphones zum Locktopf"
+msgstr "the smartphone's location to the bait station"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:227
+msgid ""
+"Falls auf dem Smartphone eine Internetverbindung besteht, werden die "
+"Bilder anschließend in die Cloud synchronisiert. Dort können später "
+"jederzeit die eigenen Statistiken angesehen werden."
+msgstr ""
+"If there is an internet connection on the smartphone, the images are then "
+"synchronized to the cloud. There, you can view your own statistics at any "
+"time later on."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:233
+msgid ""
+"Die Verbindung zum Locktopf wird über Bluetooth hergestellt. Sie müssen "
+"sich daher in unmittelbarer Nähe zum Locktopf befinden. Ein blaues Banner"
+" in der Locktopf-Kachel zeigt an, welcher Locktopf aktuell in Reichweite "
+"ist."
+msgstr ""
+"The connection to the bait station is established via Bluetooth. You "
+"therefore need to be in the immediate vicinity of the bait station. A blue "
+"banner in the bait station tile indicates which bait station is currently "
+"in range."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:238
+msgid "Fortgeschritten: Offline ohne App bzw. mit aktiver WLAN-Anbindung"
+msgstr "Advanced: offline without the app or with an active Wi-Fi connection"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:240
+msgid ""
+"Das Kameramodul öffnet bei jedem Start automatisch ein eigenes kleines "
+"WLAN. Das gilt zum Beispiel, wenn der Strom getrennt und anschließend "
+"wieder verbunden wird. Dieses WLAN trägt den Namen des Locktopfs."
+msgstr ""
+"Every time it starts, the camera module automatically opens its own small "
+"Wi-Fi. This applies, for example, when the power is disconnected and then "
+"reconnected. This Wi-Fi carries the name of the bait station."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:244
+msgid ""
+"Um die erweiterten Einstellungen zu erreichen, folgen Sie einfach den "
+"Schritten im Abschnitt „Im lokalen WLAN“."
+msgstr ""
+"To reach the advanced settings, simply follow the steps in the section "
+"“On the local Wi-Fi”."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:247
+msgid "Erweiterte Einstellungen im lokalen WLAN"
+msgstr "Advanced settings on the local Wi-Fi"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:251
+msgid ""
+"Sollten Sie sich zuvor anders entschieden haben, können Sie die Anleitung"
+" zur Einrichtung jederzeit über das kleine Stift-Symbol erneut aufrufen. "
+"Dort findet man die Anweisungen unter „WLAN-Betrieb“."
+msgstr ""
+"If you decided differently earlier, you can call up the setup "
+"instructions again at any time via the small pencil icon. There you will "
+"find the instructions under “Wi-Fi mode”."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:255
+msgid "Anweisungen unter WLAN-Betrieb"
+msgstr "Instructions under Wi-Fi mode"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:259
+msgid "**Hivora Sense Web-Frontend des Kameramoduls**"
+msgstr "**Hivora Sense web front end of the camera module**"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:261
+msgid ""
+"Die Weboberfläche startet automatisch in der Galerie. Diese ist zu Beginn"
+" noch leer."
+msgstr ""
+"The web interface starts automatically in the gallery. This is still "
+"empty at the beginning."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:264
+msgid ""
+"Für den Offline-Betrieb ist die Konfiguration an dieser Stelle "
+"abgeschlossen. Ab sofort steht der smarte Locktopf zur Verfügung."
+msgstr ""
+"For offline operation, the configuration is complete at this point. From "
+"now on, the smart bait station is available."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:267
+msgid ""
+"Wenn Sie die Sichtungen des Locktopfs im Betrieb ohne Internetverbindung "
+"kontrollieren möchten, müssen Sie sich in der Nähe des Locktopfs, zum "
+"Beispiel mit einem Smartphone, mit dem WLAN des Kameramoduls verbinden. "
+"Die Bilder können anschließend über den Download-Button heruntergeladen "
+"werden."
+msgstr ""
+"If you want to check the bait station's sightings during operation "
+"without an internet connection, you need to connect to the camera "
+"module's Wi-Fi near the bait station, for example with a smartphone. The "
+"images can then be downloaded using the download button."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:272
+msgid "Galerie der Sichtungen auf dem Locktopf (SD-Karte)"
+msgstr "Gallery of sightings on the bait station (SD card)"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:276
+msgid ""
+"Mehr Komfort bietet die Verbindung mit einem WLAN mit Internetzugang. In "
+"diesem Fall werden Sichtungen an die Online-Plattform hivora.eu "
+"übertragen und können dort detaillierter ausgewertet werden."
+msgstr ""
+"Connecting to a Wi-Fi with internet access offers more convenience. In "
+"this case, sightings are transferred to the online platform hivora.eu and "
+"can be analyzed there in more detail."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:280
+msgid ""
+"Dadurch sind später auch Benachrichtigungen in der HornetLog App möglich."
+" Voraussetzung dafür ist, dass öffentliche Sichtungen aktiviert wurden "
+"und in der App eine Alarmierungszone am Standort des Locktopfs "
+"eingerichtet wurde."
+msgstr ""
+"This also enables notifications in the HornetLog app later on. The "
+"prerequisite for this is that public sightings have been enabled and an "
+"alert zone has been set up in the app at the bait station's location."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:284
+msgid "Locktopf mit einem WLAN verbinden"
+msgstr "Connecting the bait station to a Wi-Fi"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:288
+msgid ""
+"Zum Verbinden mit dem heimischen WLAN wählen Sie aus der Liste einfach "
+"das gewünschte WLAN aus und geben das dazugehörige Passwort ein."
+msgstr ""
+"To connect to your home Wi-Fi, simply select the desired Wi-Fi from the "
+"list and enter the corresponding password."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:291
+msgid ""
+"Nach dem Speichern wird das Hivora Sense Kameramodul neu gestartet. "
+"Anschließend sollte auch der verwendete Computer wieder mit dem regulären"
+" WLAN mit Internetzugang verbunden werden."
+msgstr ""
+"After saving, the Hivora Sense camera module restarts. The computer you "
+"are using should then also be reconnected to the regular Wi-Fi with "
+"internet access."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:295
+msgid "Sichtungen erscheinen fortan automatisch in der Liste der Sichtungen."
+msgstr "From now on, sightings automatically appear in the list of sightings."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:297
+msgid "Liste der Sichtungen an den Locktöpfen"
+msgstr "List of sightings at the bait stations"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:301
+msgid "Sichtung am Locktopf"
+msgstr "Sighting at the bait station"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:305
+msgid ""
+"Die Einrichtung ist nun vollständig abgeschlossen und der Locktopf ist "
+"vollumfänglich einsatzbereit."
+msgstr ""
+"The setup is now fully complete and the bait station is ready for use in "
+"every respect."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:309
 msgid "Update Software"
-msgstr ""
+msgstr "Software Update"
 
-#: ../../source/software_installation.rst:27
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:311
 msgid ""
 "Ein Software-Update aktualisiert die Firmware auf dem Gerät auf eine "
 "neuere Version. Der Ablauf entspricht der Erstinstallation über den "
-"Cloud-Installer."
+"Cloud-Installer:"
 msgstr ""
+"A software update upgrades the firmware on the device to a newer version. "
+"The procedure corresponds to the initial installation via the cloud "
+"installer:"
 
-#: ../../source/software_installation.rst:31
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:314
+msgid "Gerät per USB verbinden und einschalten."
+msgstr "Connect the device via USB and switch it on."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:315
 msgid "Cloud-Installer im Browser öffnen und über WebSerial verbinden."
-msgstr ""
+msgstr "Open the cloud installer in the browser and connect via WebSerial."
 
-#: ../../source/software_installation.rst:32
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:316
 msgid "Die neue Firmware-Version auswählen und den Flash-Vorgang starten."
-msgstr ""
+msgstr "Select the new firmware version and start the flashing process."
 
-#: ../../source/software_installation.rst:34
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:317
+msgid "Abschlussmeldung abwarten und Gerät neu starten."
+msgstr "Wait for the completion message and restart the device."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:318
 msgid "Nach dem Neustart die installierte Version und die Basisfunktion prüfen."
-msgstr ""
+msgstr "After the restart, check the installed version and the basic function."
 
-#: ../../source/software_installation.rst:38
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:322
 msgid ""
 "Vor einem Update sollten bestehende Konfigurationen (z. B. Netzwerk- und "
 "Kalibrierungswerte) gesichert werden, falls diese beim Flash-Vorgang "
 "zurückgesetzt werden."
 msgstr ""
+"Before an update, existing configurations (e.g. network and calibration "
+"values) should be backed up in case they are reset during the flashing "
+"process."
 
-#: ../../source/software_installation.rst:43
-msgid "Fehlerbehebung (Kurz)"
-msgstr ""
-
-#: ../../source/software_installation.rst:45
-msgid "Port nicht sichtbar: USB-Kabel/Browserrechte prüfen."
-msgstr ""
-
-#: ../../source/software_installation.rst:46
-msgid ""
-"Flash fehlgeschlagen: Verbindung trennen, Gerät neu starten, erneut "
-"versuchen."
-msgstr ""
-
-#: ../../source/software_installation.rst:47
-msgid ""
-"Keine Gerätedaten nach Flash: Baudrate/Board-Profil im Installer "
-"verifizieren."
-msgstr ""
-
-#: ../../source/software_installation.rst:49
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/software_installation.rst:326
 msgid "Ausführlichere Hinweise finden sich im Abschnitt :doc:`troubleshooting`."
-msgstr ""
+msgstr "More detailed notes can be found in the section :doc:`troubleshooting`."
+
+#~ msgid ""
+#~ "Die Firmware-Bereitstellung erfolgt über "
+#~ "einen browserbasierten Cloud-Installer mit "
+#~ "**WebSerial**."
+#~ msgstr ""
+
+#~ msgid "Unterstützter Browser (z. B. aktuelles Chromium-basiertes Release)."
+#~ msgstr ""
+
+#~ msgid "USB-Datenkabel zwischen Rechner und Hivora-Sense-Gerät."
+#~ msgstr ""
+
+#~ msgid "Lokaler Zugriff auf die Installer-URL."
+#~ msgstr ""
+
+#~ msgid "Schritt-für-Schritt"
+#~ msgstr ""
+
+#~ msgid "Cloud-Installer im Browser öffnen."
+#~ msgstr ""
+
+#~ msgid "Schaltfläche zum Verbinden über WebSerial wählen."
+#~ msgstr ""
+
+#~ msgid "Den korrekten seriellen Port auswählen und Zugriff bestätigen."
+#~ msgstr ""
+
+#~ msgid "Ziel-Firmware auswählen und Flash-Vorgang starten."
+#~ msgstr ""
+
+#~ msgid "Nach dem Neustart Basisfunktion (Status/Erkennung) prüfen."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Ein Software-Update aktualisiert die "
+#~ "Firmware auf dem Gerät auf eine "
+#~ "neuere Version. Der Ablauf entspricht "
+#~ "der Erstinstallation über den Cloud-"
+#~ "Installer."
+#~ msgstr ""
+
+#~ msgid "Fehlerbehebung (Kurz)"
+#~ msgstr ""
+
+#~ msgid "Port nicht sichtbar: USB-Kabel/Browserrechte prüfen."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Flash fehlgeschlagen: Verbindung trennen, "
+#~ "Gerät neu starten, erneut versuchen."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Keine Gerätedaten nach Flash: Baudrate"
+#~ "/Board-Profil im Installer verifizieren."
+#~ msgstr ""
 

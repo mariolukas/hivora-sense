@@ -22,27 +22,29 @@ msgstr ""
 
 #: ../../source/license.rst:2
 msgid "Lizenz"
-msgstr ""
+msgstr "License"
 
 #: ../../source/license.rst:4
 msgid "Dieses Projekt ist als Hybridmodell organisiert:"
-msgstr ""
+msgstr "This project is organized as a hybrid model:"
 
 #: ../../source/license.rst:6
 msgid "**Hardware-Dokumentation** kann als Open Source bereitgestellt werden."
-msgstr ""
+msgstr "**Hardware documentation** may be provided as open source."
 
 #: ../../source/license.rst:7
 msgid "**Firmware und bestimmte Softwarekomponenten** können proprietär sein."
-msgstr ""
+msgstr "**Firmware and certain software components** may be proprietary."
 
 #: ../../source/license.rst:9
 msgid ""
 "Die verbindlichen Lizenzbedingungen sind in den jeweiligen Lizenzdateien "
 "im Repository definiert."
 msgstr ""
+"The binding license terms are defined in the respective license files in the "
+"repository."
 
 #: ../../source/license.rst:11
 msgid "Siehe auch: ``LICENSE`` im Projektwurzelverzeichnis."
-msgstr ""
+msgstr "See also: ``LICENSE`` in the project root directory."
 

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hivora Sense \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-01 18:53+0200\n"
+"POT-Creation-Date: 2026-07-02 10:55+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -20,42 +20,161 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.18.0\n"
 
-#: ../../source/introduction.rst:2
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:2
 msgid "Einführung"
-msgstr ""
+msgstr "Introduction"
 
-#: ../../source/introduction.rst:4
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:4
+msgid "Hivora Sense Blue Print"
+msgstr "Hivora Sense Blue Print"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:8
 msgid ""
 "**Hivora Sense** ist ein AI-Edge-System zur Echtzeit-Erkennung von *Vespa"
 " velutina* (Asiatische Hornisse) an Wick Traps."
 msgstr ""
+"**Hivora Sense** is an AI edge system for real-time detection of *Vespa "
+"velutina* (Asian hornet) at wick traps."
 
-#: ../../source/introduction.rst:6
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:10
 msgid ""
 "Das AI-Edge-Konzept bedeutet, dass die KI-Auswertung direkt am Gerät "
 "(\"am Rand\" des Netzwerks) stattfindet:"
 msgstr ""
+"The AI edge concept means that the AI analysis takes place directly on the "
+"device (\"at the edge\" of the network):"
 
-#: ../../source/introduction.rst:8
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:12
 msgid "Bilder und Sensordaten werden lokal verarbeitet."
-msgstr ""
+msgstr "Images and sensor data are processed locally."
 
-#: ../../source/introduction.rst:9
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:13
 msgid "Erkennungsereignisse werden in Echtzeit erzeugt."
-msgstr ""
+msgstr "Detection events are generated in real time."
 
-#: ../../source/introduction.rst:10
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:14
 msgid "Der Bedarf an permanenter Cloud-Konnektivität wird reduziert."
-msgstr ""
+msgstr "The need for permanent cloud connectivity is reduced."
 
-#: ../../source/introduction.rst:11
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:15
 msgid "Datenschutz und Reaktionsgeschwindigkeit werden verbessert."
-msgstr ""
+msgstr "Data privacy and response speed are improved."
 
-#: ../../source/introduction.rst:13
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:17
 msgid ""
 "Dieses Zusammenspiel aus lokaler Inferenz, Sensorik und optionaler Cloud-"
 "Anbindung ermöglicht ein robustes Monitoring auch in netzwerktechnisch "
 "eingeschränkten Umgebungen."
 msgstr ""
+"This combination of local inference, sensors and optional cloud connectivity "
+"enables robust monitoring even in network-constrained environments."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:20
+msgid "Was ist ein Locktopf und wie hilft Hivora Sense?"
+msgstr "What is a bait station and how does Hivora Sense help?"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:22
+msgid ""
+"Ein **Locktopf** (oft auch Dochttopf genannt) ist ein bewährtes "
+"Hilfsmittel im Kampf gegen die invasive **Asiatische Hornisse (Vespa "
+"velutina)**. Er enthält ein spezielles Lockmittel, das die Hornissen "
+"anzieht. Ziel ist es, die Tiere an einer festen Futterstelle zu "
+"konditionieren, um von dort aus durch Beobachtung der Flugrichtung ihr "
+"Nest zu finden."
+msgstr ""
+"A **bait station** (often also called a wick pot) is a proven tool in the "
+"fight against the invasive **Asian hornet (Vespa velutina)**. It contains a "
+"special attractant that lures the hornets. The goal is to condition the "
+"animals to a fixed feeding spot, so that their nest can be found from there "
+"by observing their flight direction."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:28
+msgid ""
+"**Hivora Sense** ergänzt den Locktopf um eine kleine Kamera mit "
+"**automatischer Erkennung**. Anstatt stundenlang selbst vor dem Topf zu "
+"sitzen und auf die Hornisse zu warten, übernimmt die Technik das für "
+"dich:"
+msgstr ""
+"**Hivora Sense** extends the bait station with a small camera featuring "
+"**automatic detection**. Instead of sitting in front of the station for "
+"hours yourself waiting for the hornet, the technology does it for you:"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:32
+msgid ""
+"**Automatische Erkennung:** Die Kamera schaut regelmäßig auf den Locktopf"
+" und erkennt via KI-Modell automatisch, ob eine Asiatische Hornisse zu "
+"sehen ist."
+msgstr ""
+"**Automatic detection:** The camera regularly looks at the bait station and "
+"automatically detects via an AI model whether an Asian hornet is present."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:34
+msgid ""
+"**Digitale Dokumentation:** Sobald eine Asiatische Hornisse landet, wird "
+"ein Foto gemacht und die Sichtung mit Zeitstempel gespeichert."
+msgstr ""
+"**Digital documentation:** As soon as an Asian hornet lands, a photo is "
+"taken and the sighting is saved with a timestamp."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:36
+msgid ""
+"**Überwachung rund um die Uhr:** Du erfährst genau, wie oft und zu "
+"welchen Zeiten die Hornissen den Topf anfliegen – auch wenn du gerade "
+"nicht vor Ort bist."
+msgstr ""
+"**Round-the-clock monitoring:** You find out exactly how often and at what "
+"times the hornets approach the station – even when you are not on site."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:41
+msgid "Ziel des Aufbaus"
+msgstr "Goal of the build"
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:43
+msgid ""
+"Ein klassischer Locktopf soll mit einer kleinen elektronischen "
+"Erweiterung ergänzt werden. Diese Erweiterung kann Beobachtungen am "
+"Locktopf dokumentieren und perspektivisch mithilfe von Bilderkennung "
+"Hinweise auf die Asiatische Hornisse (*Vespa velutina*) liefern."
+msgstr ""
+"A classic bait station is to be extended with a small electronic add-on. "
+"This add-on can document observations at the bait station and, going "
+"forward, provide indications of the Asian hornet (*Vespa velutina*) using "
+"image recognition."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:48
+msgid ""
+"Der Fokus liegt auf einem möglichst einfachen, nachvollziehbaren und "
+"nachbaubaren Aufbau mit handelsüblichen Komponenten. Weil nicht jeder ein"
+" Technik-Profi ist, wurde bewusst auf Komponenten verzichtet, die "
+"angelötet werden müssten. Auch das Thema Stromversorgung ist noch offen; "
+"damit ist zunächst nur ein eingeschränkter Aktionsradius möglich. In "
+"dieser einfachen Ausbaustufe wird zudem noch kein LoRa unterstützt – dies"
+" ist jedoch geplant."
+msgstr ""
+"The focus is on a build that is as simple, comprehensible and reproducible "
+"as possible, using off-the-shelf components. Because not everyone is a tech "
+"expert, components that would need to be soldered were deliberately avoided. "
+"The topic of power supply is also still open; for now, this means only a "
+"limited operating range is possible. In this simple build stage, LoRa is not "
+"yet supported either – however, this is planned."
+
+#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/introduction.rst:57
+msgid ""
+"Diese Dokumentation basiert auf der Aufbauanleitung aus dem `Hivora "
+"Community Forum <https://hivora.discourse.group/t/aufbauanleitung-hivora-"
+"sense-locktopf/12>`_ (englische Version `hier "
+"<https://hivora.discourse.group/t/build-guide-hivora-sense-wick-bait-"
+"station/19>`_). Das Projekt lebt vom Mitmachen: Verbesserungen, bessere "
+"Gehäuse, stabilere Stromversorgung oder andere praktische Anpassungen "
+"können und sollen in der Community geteilt werden. Die Anleitung ist noch"
+" nicht final und wird auf Basis von Praxiserfahrungen weiterentwickelt."
+msgstr ""
+"This documentation is based on the build guide from the `Hivora Community "
+"Forum <https://hivora.discourse.group/t/aufbauanleitung-hivora-"
+"sense-locktopf/12>`_ (English version `here "
+"<https://hivora.discourse.group/t/build-guide-hivora-sense-wick-bait-"
+"station/19>`_). The project thrives on participation: improvements, better "
+"enclosures, a more reliable power supply or other practical adjustments can "
+"and should be shared within the community. The guide is not yet final and "
+"will continue to be developed based on hands-on experience."
 

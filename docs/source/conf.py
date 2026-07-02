@@ -19,6 +19,12 @@ language = "de"
 locale_dirs = ["../locale/"]
 gettext_compact = False
 
+# Sprachabhängige Bilder: Referenzen im Quelltext bleiben neutral
+# (``_static/aufbauanleitung/bild.png``) und werden je Sprache aus dem
+# passenden Unterordner geladen – ``.../de/bild.png`` bzw. ``.../en/bild.png``.
+# Fehlt eine Sprachvariante, greift Sphinx auf die neutrale Referenz zurück.
+figure_language_filename = "{path}{language}/{basename}{ext}"
+
 html_theme = "sphinx_rtd_theme"
 html_static_path = ["_static"]
 html_css_files = ["hivora-cloud-theme.css"]
