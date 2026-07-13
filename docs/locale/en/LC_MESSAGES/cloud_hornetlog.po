@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Hivora Team
+# This file is distributed under the same license as the Hivora package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hivora\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-09 17:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/cloud_hornetlog.rst:2
+msgid "HornetLog App"
+msgstr "HornetLog app"
+
+#: ../../source/cloud_hornetlog.rst:4
+msgid ""
+"**HornetLog** ist die mobile App im Hivora-System. Sie hat zwei Aufgaben: "
+"Sie macht aus einer Sichtung in Sekunden eine strukturierte **Meldung** – "
+"und sie ist im **Feld** das Werkzeug, um die Aufnahmen der Hivora Sense "
+"Locktöpfe abzuholen. Die App ist unter `hornet-log.app <https://hornet-"
+"log.app>`_ sowie nativ für iOS und Android verfügbar."
+msgstr ""
+"**HornetLog** is the mobile app in the Hivora system. It has two jobs: it "
+"turns a sighting into a structured **report** in seconds – and in the "
+"**field** it is the tool for retrieving the recordings of the Hivora Sense "
+"wick traps. The app is available at `hornet-log.app <https://hornet-"
+"log.app>`_ as well as natively for iOS and Android."
+
+#: ../../source/cloud_hornetlog.rst:11
+msgid "Sichtungen melden"
+msgstr "Reporting sightings"
+
+#: ../../source/cloud_hornetlog.rst:13
+msgid ""
+"Wer eine Asiatische Hornisse entdeckt, meldet sie mit HornetLog in wenigen "
+"Schritten:"
+msgstr ""
+"Anyone who spots an Asian hornet reports it with HornetLog in a few steps:"
+
+#: ../../source/cloud_hornetlog.rst:16
+msgid ""
+"**Foto & Fundort:** Hornisse fotografieren – die App übernimmt den Standort "
+"automatisch und lässt ihn per Karte korrigieren."
+msgstr ""
+"**Photo & location:** photograph the hornet – the app takes the location "
+"automatically and lets you correct it on a map."
+
+#: ../../source/cloud_hornetlog.rst:18
+msgid ""
+"**Erkennung prüfen:** Die App schlägt eine Einordnung vor. Du prüfst kurz, "
+"ob sie passt, und ergänzt bei Bedarf Details."
+msgstr ""
+"**Review the detection:** the app proposes a classification. You briefly "
+"check whether it fits and add details if needed."
+
+#: ../../source/cloud_hornetlog.rst:20
+msgid ""
+"**Absenden & verfolgen:** Meldung absenden und den Status verfolgen – von "
+"der Prüfung bis zur Einordnung durch Vereine und Fachleute."
+msgstr ""
+"**Submit & track:** submit the report and track its status – from review to "
+"classification by associations and experts."
+
+#: ../../source/cloud_hornetlog.rst:25
+msgid ""
+"Für die **erste** Meldung ist bewusst **kein Konto** erforderlich. Erst zum "
+"Verfolgen und Verwalten von Meldungen meldest du dich an."
+msgstr ""
+"For the **first** report, deliberately **no account** is required. You only "
+"sign in to track and manage reports."
+
+#: ../../source/cloud_hornetlog.rst:29
+msgid "Feldmodus für Hivora Sense"
+msgstr "Field mode for Hivora Sense"
+
+#: ../../source/cloud_hornetlog.rst:31
+msgid ""
+"Neben dem Melden ist HornetLog das Bindeglied zwischen den Locktöpfen und "
+":doc:`Hivora Cloud <cloud_introduction>`. Im Feld koppelt die App die Hivora"
+" Sense Locktöpfe und synchronisiert deren Aufnahmen:"
+msgstr ""
+"Besides reporting, HornetLog is the link between the wick traps and "
+":doc:`Hivora Cloud <cloud_introduction>`. In the field, the app pairs with "
+"the Hivora Sense wick traps and synchronises their recordings:"
+
+#: ../../source/cloud_hornetlog.rst:35
+msgid "**per WLAN**, wenn das Gerät im Netz erreichbar ist, oder"
+msgstr "**over Wi-Fi**, when the device is reachable on the network, or"
+
+#: ../../source/cloud_hornetlog.rst:36
+msgid ""
+"**komplett offline per SD-Karte**, wenn draußen kein Netz verfügbar ist."
+msgstr ""
+"**completely offline via SD card**, when no network is available outdoors."
+
+#: ../../source/cloud_hornetlog.rst:38
+msgid ""
+"Die Bilder lassen sich so auch **ohne Netz** direkt vor Ort ansehen. Sobald "
+"wieder eine Verbindung besteht, laufen die Daten strukturiert in Hivora "
+"Cloud zusammen."
+msgstr ""
+"The images can thus be viewed on site even **without a network**. As soon as"
+" a connection is available again, the data comes together in a structured "
+"way in Hivora Cloud."
+
+#: ../../source/cloud_hornetlog.rst:43
+msgid "Alarmierung"
+msgstr "Alerting"
+
+#: ../../source/cloud_hornetlog.rst:45
+msgid ""
+"Ist der Standort eines Locktopfs in der Cloud hinterlegt, kann die App über "
+"Aktivität an **deinem eigenen** Locktopf informieren. Der Standort des "
+"Locktopfs wird bei jeder Synchronisation mit der App auf den aktuellen "
+"Standort aktualisiert."
+msgstr ""
+"If a wick trap's location is stored in the cloud, the app can notify you "
+"about activity at **your own** wick trap. The wick trap's location is "
+"updated to the current location on every synchronisation with the app."
+
+#: ../../source/cloud_hornetlog.rst:52
+msgid ""
+":doc:`cloud_locktoepfe` – Locktöpfe mit dem Konto verbinden und den Standort"
+" festlegen."
+msgstr ""
+":doc:`cloud_locktoepfe` – connect wick traps to your account and set their "
+"location."
+
+#: ../../source/cloud_hornetlog.rst:54
+msgid ":doc:`software_installation` – Ersteinrichtung eines Locktopfs."
+msgstr ":doc:`software_installation` – initial setup of a wick trap."

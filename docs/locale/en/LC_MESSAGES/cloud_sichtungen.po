@@ -1,0 +1,179 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Hivora Team
+# This file is distributed under the same license as the Hivora package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hivora\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-09 17:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/cloud_sichtungen.rst:2
+msgid "Sichtungen und Statistik"
+msgstr "Sightings and statistics"
+
+#: ../../source/cloud_sichtungen.rst:4
+msgid ""
+"Sobald deine Locktöpfe Aktivität erkennen, laufen die Erkennungen in Hivora "
+"Cloud zusammen. Zwei Bereiche machen sie nutzbar: die Liste **Locktopf-"
+"Sichtungen** und das Dashboard **Locktopf-Statistik**."
+msgstr ""
+"As soon as your wick traps detect activity, the detections come together in "
+"Hivora Cloud. Two areas make them usable: the **Trap sightings** list and "
+"the **Trap statistics** dashboard."
+
+#: ../../source/cloud_sichtungen.rst:9
+msgid "Locktopf-Sichtungen"
+msgstr "Trap sightings"
+
+#: ../../source/cloud_sichtungen.rst:11
+msgid ""
+"Unter **Locktopf-Sichtungen** findest du eine chronologische Übersicht aller"
+" Sichtungen, die deine Locktöpfe erkannt haben. Zu jeder Sichtung werden "
+"unter anderem angezeigt:"
+msgstr ""
+"Under **Trap sightings** you find a chronological overview of all sightings "
+"your wick traps have detected. For each sighting, the following are shown, "
+"among others:"
+
+#: ../../source/cloud_sichtungen.rst:19
+msgid "Feld"
+msgstr "Field"
+
+#: ../../source/cloud_sichtungen.rst:20
+msgid "Bedeutung"
+msgstr "Meaning"
+
+#: ../../source/cloud_sichtungen.rst:21
+msgid "**Gemeldet am**"
+msgstr "**Reported at**"
+
+#: ../../source/cloud_sichtungen.rst:22
+msgid "Zeitpunkt der Erkennung."
+msgstr "Time of the detection."
+
+#: ../../source/cloud_sichtungen.rst:23
+msgid "**Koordinaten**"
+msgstr "**Coordinates**"
+
+#: ../../source/cloud_sichtungen.rst:24
+msgid "Fundort der Sichtung."
+msgstr "Location of the sighting."
+
+#: ../../source/cloud_sichtungen.rst:25
+msgid "**Typ**"
+msgstr "**Type**"
+
+#: ../../source/cloud_sichtungen.rst:26
+msgid "Art der Meldung."
+msgstr "Kind of report."
+
+#: ../../source/cloud_sichtungen.rst:27
+msgid "**Status**"
+msgstr "**Status**"
+
+#: ../../source/cloud_sichtungen.rst:28
+msgid "**Verifiziert** oder **Nicht verifiziert**."
+msgstr "**Verified** or **Unverified**."
+
+#: ../../source/cloud_sichtungen.rst:29
+msgid "**Locktopf**"
+msgstr "**Wick trap**"
+
+#: ../../source/cloud_sichtungen.rst:30
+msgid "Gerät, das die Sichtung gemeldet hat."
+msgstr "Device that reported the sighting."
+
+#: ../../source/cloud_sichtungen.rst:32
+msgid ""
+"Über **Bild anzeigen** öffnest du das zugehörige **Sichtungsbild**. Die "
+"Liste lässt sich nach **Locktopf** filtern und aktualisieren; eine einzelne "
+"Sichtung kann bei Bedarf gelöscht werden."
+msgstr ""
+"Via **View image** you open the associated **sighting image**. The list can "
+"be filtered by **wick trap** and refreshed; an individual sighting can be "
+"deleted if needed."
+
+#: ../../source/cloud_sichtungen.rst:38
+msgid ""
+"Im Plan **Community Free** wird jeweils die letzte Sichtung angezeigt. Die "
+"**vollständige Historie** aller Sichtungen ist Teil von **Community Pro** "
+"(*Unterstützer*). Siehe :doc:`cloud_account`."
+msgstr ""
+"In the **Community Free** plan, only the most recent sighting is shown. The "
+"**complete history** of all sightings is part of **Community Pro** "
+"(*Supporter*). See :doc:`cloud_account`."
+
+#: ../../source/cloud_sichtungen.rst:43
+msgid "Locktopf-Statistik"
+msgstr "Trap statistics"
+
+#: ../../source/cloud_sichtungen.rst:45
+msgid ""
+"Das Dashboard **Locktopf-Statistik** gibt einen Überblick über deine "
+"Locktopf-Aktivität. Es zeigt unter anderem folgende Kennzahlen:"
+msgstr ""
+"The **Trap statistics** dashboard gives an overview of your wick-trap "
+"activity. It shows, among others, the following key figures:"
+
+#: ../../source/cloud_sichtungen.rst:48
+msgid "**Aktive Locktöpfe** in deinem Konto,"
+msgstr "**Active wick traps** in your account,"
+
+#: ../../source/cloud_sichtungen.rst:49
+msgid "**Sichtungen heute** (seit 00:00 Uhr),"
+msgstr "**Sightings today** (since 00:00),"
+
+#: ../../source/cloud_sichtungen.rst:50
+msgid "**Sichtungen der letzten 7 Tage**,"
+msgstr "**Sightings in the last 7 days**,"
+
+#: ../../source/cloud_sichtungen.rst:51
+msgid "**Sichtungen gesamt** (alle bisher erfassten),"
+msgstr "**Total sightings** (all recorded so far),"
+
+#: ../../source/cloud_sichtungen.rst:52
+msgid ""
+"die **Top-Locktöpfe nach Sichtungen** sowie die Aktivität über die Zeit."
+msgstr "the **top traps by sightings** as well as activity over time."
+
+#: ../../source/cloud_sichtungen.rst:54
+msgid ""
+"Die Auswertung lässt sich nach Zeitraum und Gebiet eingrenzen, sodass du "
+"Entwicklungen in deiner Region erkennst, ohne Listen von Hand auszuwerten."
+msgstr ""
+"The analysis can be narrowed down by time period and area, so you recognise "
+"trends in your region without evaluating lists by hand."
+
+#: ../../source/cloud_sichtungen.rst:59
+msgid ""
+"Das ausführliche Dashboard mit Tages-/Wochen-Kennzahlen, Charts und Top-"
+"Locktöpfen ist im Plan **Community Pro** (*Unterstützer*) verfügbar."
+msgstr ""
+"The detailed dashboard with daily/weekly key figures, charts and top traps "
+"is available in the **Community Pro** (*Supporter*) plan."
+
+#: ../../source/cloud_sichtungen.rst:63
+msgid "Bekanntmachungen"
+msgstr "Announcements"
+
+#: ../../source/cloud_sichtungen.rst:65
+msgid ""
+"Unter **Bekanntmachungen** bzw. **Mitteilungen** findest du globale und "
+"standortbezogene Neuigkeiten – etwa Hinweise zu neuen Funktionen oder "
+"regionale Informationen. Wichtige Meldungen können angeheftet sein."
+msgstr ""
+"Under **Announcements** or **Notices** you find global and location-based "
+"news – for example notes on new features or regional information. Important "
+"messages can be pinned."

@@ -1,8 +1,8 @@
 import os
 from datetime import datetime
 
-project = "Hivora Sense"
-author = "Hivora Sense Team"
+project = "Hivora"
+author = "Hivora Team"
 copyright = f"{datetime.now().year}, {author}"
 
 extensions = [

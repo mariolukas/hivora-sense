@@ -1,0 +1,203 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Hivora Team
+# This file is distributed under the same license as the Hivora package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hivora\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-09 17:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/cloud_account.rst:2
+msgid "Konto und Pläne"
+msgstr "Account and plans"
+
+#: ../../source/cloud_account.rst:4
+msgid ""
+"Um Hivora Cloud zu nutzen, brauchst du ein Konto auf `hivora.eu "
+"<https://hivora.eu/>`_. Ein Konto ist kostenlos und genügt bereits, um "
+"Locktöpfe zu verwalten und Sichtungen einzusehen."
+msgstr ""
+"To use Hivora Cloud you need an account at `hivora.eu "
+"<https://hivora.eu/>`_. An account is free and is already enough to manage "
+"wick traps and view sightings."
+
+#: ../../source/cloud_account.rst:9
+msgid "Registrieren"
+msgstr "Registering"
+
+#: ../../source/cloud_account.rst:11
+msgid ""
+"Öffne `hivora.eu "
+"<https://hivora.eu/?pk_campaign=doku&pk_source=docs&pk_medium=web>`_ und "
+"wähle **Registrieren**."
+msgstr ""
+"Open `hivora.eu "
+"<https://hivora.eu/?pk_campaign=doku&pk_source=docs&pk_medium=web>`_ and "
+"choose **Register**."
+
+#: ../../source/cloud_account.rst:13
+msgid "Gib deine E-Mail-Adresse und ein Passwort an."
+msgstr "Enter your email address and a password."
+
+#: ../../source/cloud_account.rst:14
+msgid ""
+"Du erhältst eine E-Mail mit einem Bestätigungslink. Erst nach der "
+"Bestätigung ist das Konto aktiv."
+msgstr ""
+"You will receive an email with a confirmation link. The account only becomes"
+" active after confirmation."
+
+#: ../../source/cloud_account.rst:19
+msgid ""
+"Kommt die Bestätigungs-E-Mail nicht an, prüfe den Spam-Ordner und ob die "
+"E-Mail-Adresse korrekt eingegeben wurde. Der Bestätigungslink kann bei "
+"Bedarf erneut angefordert werden."
+msgstr ""
+"If the confirmation email does not arrive, check your spam folder and "
+"whether the email address was entered correctly. The confirmation link can "
+"be requested again if needed."
+
+#: ../../source/cloud_account.rst:24
+msgid "Anmelden"
+msgstr "Signing in"
+
+#: ../../source/cloud_account.rst:26
+msgid ""
+"Nach der Bestätigung meldest du dich mit E-Mail und Passwort an. Optional "
+"lässt sich die Anmeldung mit einem **Einmalcode (OTP)** absichern: Ist diese"
+" Option in den Kontoeinstellungen aktiviert, wird bei jeder Anmeldung "
+"zusätzlich ein per E-Mail zugesandter Code abgefragt."
+msgstr ""
+"After confirmation you sign in with your email and password. Optionally, "
+"sign-in can be secured with a **one-time code (OTP)**: if this option is "
+"enabled in your account settings, every sign-in additionally requires a code"
+" sent by email."
+
+#: ../../source/cloud_account.rst:32
+msgid "Wie möchtest du Hivora nutzen?"
+msgstr "How would you like to use Hivora?"
+
+#: ../../source/cloud_account.rst:34
+msgid ""
+"Beim ersten Login – oder später über die Plan-Verwaltung – wählst du, wie du"
+" Hivora nutzen möchtest. Für Privatpersonen sind die beiden Community-Pläne "
+"relevant:"
+msgstr ""
+"On first login – or later via plan management – you choose how you want to "
+"use Hivora. For private individuals, the two community plans are relevant:"
+
+#: ../../source/cloud_account.rst:42
+msgid "Plan"
+msgstr "Plan"
+
+#: ../../source/cloud_account.rst:43
+msgid "Für wen und was enthalten"
+msgstr "Who it is for and what is included"
+
+#: ../../source/cloud_account.rst:44
+msgid "**Community Free** (*Beobachter*)"
+msgstr "**Community Free** (*Observer*)"
+
+#: ../../source/cloud_account.rst:45
+msgid ""
+"Der kostenlose Einstieg: Locktöpfe verbinden, letzte Sichtungen einsehen und"
+" zum öffentlichen Lagebild beitragen."
+msgstr ""
+"The free entry point: connect wick traps, view recent sightings and "
+"contribute to the public situational picture."
+
+#: ../../source/cloud_account.rst:47
+msgid "**Community Pro** (*Unterstützer*)"
+msgstr "**Community Pro** (*Supporter*)"
+
+#: ../../source/cloud_account.rst:48
+msgid ""
+"Erweiterte Funktionen wie die vollständige Locktopf-Verwaltung, die "
+"ausführliche **Locktopf-Statistik** (Tages-/Wochen-Kennzahlen, Charts, Top-"
+"Locktöpfe) und die komplette **Sichtungs-Historie** statt nur der letzten "
+"Einträge."
+msgstr ""
+"Advanced features such as full wick-trap management, the detailed **trap "
+"statistics** (daily/weekly key figures, charts, top traps) and the complete "
+"**sighting history** instead of only the latest entries."
+
+#: ../../source/cloud_account.rst:53
+msgid ""
+"Darüber hinaus gibt es Pläne für **Organisationen** (Vereine, Kommunen) und "
+"**Betreiber**; diese richten sich an Teams und sind nicht Teil dieser "
+"Endnutzer-Anleitung."
+msgstr ""
+"Beyond that, there are plans for **organisations** (associations, "
+"municipalities) and **operators**; these are aimed at teams and are not part"
+" of this end-user guide."
+
+#: ../../source/cloud_account.rst:57
+msgid ""
+"Deinen aktuellen Plan und die enthaltenen Funktionen findest du jederzeit "
+"unter **Mein Plan**. Von dort aus lässt sich auch auf **Community Pro** "
+"upgraden."
+msgstr ""
+"You can find your current plan and its included features at any time under "
+"**My plan**. From there you can also upgrade to **Community Pro**."
+
+#: ../../source/cloud_account.rst:61
+msgid "Kontoeinstellungen"
+msgstr "Account settings"
+
+#: ../../source/cloud_account.rst:63
+msgid "Unter **Kontoeinstellungen** passt du dein Konto an:"
+msgstr "Under **Account settings** you adjust your account:"
+
+#: ../../source/cloud_account.rst:65
+msgid ""
+"**Profil:** Vorname, Nachname und optional eine Telefonnummer. Diese Angaben"
+" werden in Listen und Zuweisungen angezeigt, sobald sie gepflegt sind."
+msgstr ""
+"**Profile:** first name, last name and optionally a phone number. This "
+"information is shown in lists and assignments once it is filled in."
+
+#: ../../source/cloud_account.rst:67
+msgid ""
+"**Bevorzugte Sprache:** die Oberflächensprache deines Kontos (u. a. Deutsch,"
+" Englisch, Französisch, Spanisch, Italienisch)."
+msgstr ""
+"**Preferred language:** the interface language of your account (including "
+"German, English, French, Spanish, Italian)."
+
+#: ../../source/cloud_account.rst:69
+msgid ""
+"**Bevorzugtes Gebiet:** ein Verwaltungsgebiet, das als Standardfilter für "
+"Statistiken, Sichtungen und Karten verwendet wird."
+msgstr ""
+"**Preferred area:** an administrative area used as the default filter for "
+"statistics, sightings and maps."
+
+#: ../../source/cloud_account.rst:71
+msgid ""
+"**Einmalcode (OTP) erzwingen:** verlangt bei jeder Anmeldung einen "
+"zusätzlichen E-Mail-Verifizierungscode."
+msgstr ""
+"**Enforce one-time code (OTP):** requires an additional email verification "
+"code on every sign-in."
+
+#: ../../source/cloud_account.rst:76
+msgid ""
+"Wenn du deine Locktöpfe hauptsächlich in einer bestimmten Region betreibst, "
+"spart ein passend gesetztes **bevorzugtes Gebiet** viel Filterarbeit: Karten"
+" und Statistiken zeigen dann standardmäßig genau diesen Bereich."
+msgstr ""
+"If you operate your traps mainly in a particular region, setting a suitable "
+"**preferred area** saves a lot of filtering work: maps and statistics then "
+"show exactly this area by default."

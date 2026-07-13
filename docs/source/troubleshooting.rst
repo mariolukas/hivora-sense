@@ -40,7 +40,9 @@ XIAO ESP32-S3 nicht mehr erreichbar (Firmware-Recovery)
 In seltenen Fällen kann es vorkommen, dass ein Seeed Studio XIAO ESP32-S3 Sense
 nach fehlgeschlagenen Flash-Versuchen weder unter Windows noch unter macOS
 zuverlässig erkannt wird. Abhilfe schafft dann eine Wiederherstellung über den
-browserbasierten Meshtastic-Flasher (Community-Tipp):
+browserbasierten Meshtastic-Flasher (Community-Tipp von *Einhorndg*, siehe
+`Original-Beitrag im Hivora-Forum
+<https://hivora.discourse.group/t/aufbauanleitung-hivora-sense-locktopf/12/8>`_):
 
 1. Mit **Google Chrome** den Meshtastic-Flasher öffnen:
    https://flasher.meshtastic.org

@@ -1,0 +1,296 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Hivora Team
+# This file is distributed under the same license as the Hivora package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hivora\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-09 17:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/cloud_locktoepfe.rst:2
+msgid "Locktöpfe verwalten"
+msgstr "Managing wick traps"
+
+#: ../../source/cloud_locktoepfe.rst:4
+msgid ""
+"Unter **Meine Locktöpfe** verwaltest du alle Hivora Sense Locktöpfe, die mit"
+" deinem Konto verbunden sind. Die Seite zeigt eine Übersicht aller Geräte "
+"mit Status und letztem Kontakt und bietet die Aktionen, um Locktöpfe "
+"hinzuzufügen, anzupassen und wieder zu entfernen."
+msgstr ""
+"Under **My wick traps** you manage all Hivora Sense wick traps connected to "
+"your account. The page shows an overview of all devices with status and last"
+" contact and offers the actions to add, edit and remove wick traps."
+
+#: ../../source/cloud_locktoepfe.rst:11
+msgid ""
+"Die vollständige Locktopf-Verwaltung ist Teil des Plans **Community Pro** "
+"(*Unterstützer*). Siehe :doc:`cloud_account`."
+msgstr ""
+"Full wick-trap management is part of the **Community Pro** (*Supporter*) "
+"plan. See :doc:`cloud_account`."
+
+#: ../../source/cloud_locktoepfe.rst:15
+msgid "Einen Locktopf verbinden"
+msgstr "Connecting a wick trap"
+
+#: ../../source/cloud_locktoepfe.rst:17
+msgid "Es gibt zwei Wege, einen Locktopf mit deinem Konto zu verbinden:"
+msgstr "There are two ways to connect a wick trap to your account:"
+
+#: ../../source/cloud_locktoepfe.rst:19
+msgid "**Eigener, neuer Locktopf**"
+msgstr "**Your own, new wick trap**"
+
+#: ../../source/cloud_locktoepfe.rst:20
+msgid ""
+"Über die Schaltfläche **Locktopf hinzufügen** legst du einen neuen Locktopf "
+"an. Dabei wird ein einmaliges **Geräte-Secret** erzeugt."
+msgstr ""
+"Use the **Add wick trap** button to create a new wick trap. A one-time "
+"**device secret** is generated in the process."
+
+#: ../../source/cloud_locktoepfe.rst:25
+msgid ""
+"Das Geräte-Secret wird **nur ein einziges Mal** angezeigt. Bewahre es sicher"
+" auf – es verbindet das Gerät mit deinem Konto."
+msgstr ""
+"The device secret is shown **only once**. Keep it safe – it links the device"
+" to your account."
+
+#: ../../source/cloud_locktoepfe.rst:28
+msgid "**Workshop-Locktopf übernehmen**"
+msgstr "**Claiming a workshop wick trap**"
+
+#: ../../source/cloud_locktoepfe.rst:29
+msgid ""
+"Vorbereitete Locktöpfe aus Workshops übernimmst du über **Workshop-"
+"Locktopf**. **Geräte-ID** und **PIN** stehen auf dem Aufkleber des Geräts. "
+"Du kannst den **QR-Code auf dem Aufkleber scannen** oder Geräte-ID und PIN "
+"manuell eingeben."
+msgstr ""
+"You claim wick traps prepared at workshops via **Workshop wick trap**. The "
+"**device ID** and **PIN** are printed on the device's sticker. You can "
+"**scan the QR code on the sticker** or enter the device ID and PIN manually."
+
+#: ../../source/cloud_locktoepfe.rst:33
+msgid ""
+"Bist du beim Scannen des QR-Codes noch nicht angemeldet, wirst du zunächst "
+"zur Anmeldung bzw. Registrierung geführt. Öffne den QR-Code danach erneut, "
+"um die Übernahme abzuschließen."
+msgstr ""
+"If you are not yet signed in when scanning the QR code, you are first taken "
+"to sign-in or registration. Open the QR code again afterwards to complete "
+"the claim."
+
+#: ../../source/cloud_locktoepfe.rst:39
+msgid ""
+"Der Ablauf, mit dem ein frisch aufgebauter Locktopf zum ersten Mal "
+"eingerichtet und mit dem Konto verbunden wird, ist ausführlich unter "
+":doc:`software_installation` beschrieben."
+msgstr ""
+"The procedure for setting up a freshly built wick trap for the first time "
+"and connecting it to your account is described in detail under "
+":doc:`software_installation`."
+
+#: ../../source/cloud_locktoepfe.rst:43
+msgid ""
+"Nach dem Verbinden solltest du als Nächstes den **Standort** des Locktopfs "
+"festlegen – er wird für das öffentliche Lagebild und für die Alarmierung "
+"über die :doc:`HornetLog App <cloud_hornetlog>` benötigt."
+msgstr ""
+"After connecting, you should next set the **location** of the wick trap – it"
+" is needed for the public situational picture and for alerting via the "
+":doc:`HornetLog app <cloud_hornetlog>`."
+
+#: ../../source/cloud_locktoepfe.rst:48
+msgid "Die Locktopf-Liste"
+msgstr "The wick-trap list"
+
+#: ../../source/cloud_locktoepfe.rst:50
+msgid "Die Liste **Locktöpfe** zeigt zu jedem Gerät folgende Spalten:"
+msgstr "The **Wick traps** list shows the following columns for each device:"
+
+#: ../../source/cloud_locktoepfe.rst:56
+msgid "Spalte"
+msgstr "Column"
+
+#: ../../source/cloud_locktoepfe.rst:57 ../../source/cloud_locktoepfe.rst:76
+msgid "Bedeutung"
+msgstr "Meaning"
+
+#: ../../source/cloud_locktoepfe.rst:58
+msgid "**Geräte-ID**"
+msgstr "**Device ID**"
+
+#: ../../source/cloud_locktoepfe.rst:59
+msgid "Eindeutige Kennung des Locktopfs (SSID)."
+msgstr "Unique identifier of the wick trap (SSID)."
+
+#: ../../source/cloud_locktoepfe.rst:60
+msgid "**Name**"
+msgstr "**Name**"
+
+#: ../../source/cloud_locktoepfe.rst:61
+msgid "Frei wählbarer Name zur Wiedererkennung."
+msgstr "Freely chosen name for recognition."
+
+#: ../../source/cloud_locktoepfe.rst:62
+msgid "**Status**"
+msgstr "**Status**"
+
+#: ../../source/cloud_locktoepfe.rst:63
+msgid "Aktueller Zustand des Geräts (siehe unten)."
+msgstr "Current state of the device (see below)."
+
+#: ../../source/cloud_locktoepfe.rst:64
+msgid "**Letzter Kontakt**"
+msgstr "**Last contact**"
+
+#: ../../source/cloud_locktoepfe.rst:65
+msgid "Zeitpunkt der letzten Verbindung mit der Cloud."
+msgstr "Time of the last connection with the cloud."
+
+#: ../../source/cloud_locktoepfe.rst:66
+msgid "**Erstellt**"
+msgstr "**Created**"
+
+#: ../../source/cloud_locktoepfe.rst:67
+msgid "Zeitpunkt, zu dem der Locktopf angelegt wurde."
+msgstr "Time at which the wick trap was created."
+
+#: ../../source/cloud_locktoepfe.rst:69
+msgid "Mögliche Status-Werte:"
+msgstr "Possible status values:"
+
+#: ../../source/cloud_locktoepfe.rst:75
+msgid "Status"
+msgstr "Status"
+
+#: ../../source/cloud_locktoepfe.rst:77
+msgid "**Online**"
+msgstr "**Online**"
+
+#: ../../source/cloud_locktoepfe.rst:78
+msgid "Der Locktopf ist aktiv und hatte kürzlich Kontakt zur Cloud."
+msgstr "The wick trap is active and had recent contact with the cloud."
+
+#: ../../source/cloud_locktoepfe.rst:79
+msgid "**Offline**"
+msgstr "**Offline**"
+
+#: ../../source/cloud_locktoepfe.rst:80
+msgid "Aktuell keine Verbindung – z. B. ausgeschaltet oder ohne Netz."
+msgstr "No connection at the moment – e.g. switched off or without network."
+
+#: ../../source/cloud_locktoepfe.rst:81
+msgid "**Einrichtung ausstehend**"
+msgstr "**Setup pending**"
+
+#: ../../source/cloud_locktoepfe.rst:82
+msgid "Der Locktopf ist angelegt, aber noch nicht vollständig eingerichtet."
+msgstr "The wick trap has been created but is not yet fully set up."
+
+#: ../../source/cloud_locktoepfe.rst:83
+msgid "**Widerrufen**"
+msgstr "**Revoked**"
+
+#: ../../source/cloud_locktoepfe.rst:84
+msgid ""
+"Das Geräte-Secret wurde ungültig gemacht; das Gerät kann keine neuen "
+"Erkennungen mehr übermitteln."
+msgstr ""
+"The device secret has been invalidated; the device can no longer submit new "
+"detections."
+
+#: ../../source/cloud_locktoepfe.rst:88
+msgid "Software-Updates"
+msgstr "Software updates"
+
+#: ../../source/cloud_locktoepfe.rst:90
+msgid ""
+"Ist für einen Locktopf eine neuere Software verfügbar, erscheint in der "
+"Liste der Hinweis **Update verfügbar (v…)**. Ein Tooltip zeigt die "
+"installierte und die in der Cloud verfügbare Version. Über das Symbol "
+"**Software installieren** lässt sich die neue Software direkt aus dem "
+"Browser auf den Locktopf übertragen."
+msgstr ""
+"If newer software is available for a wick trap, the note **Update available "
+"(v…)** appears in the list. A tooltip shows the installed version and the "
+"version available in the cloud. Using the **Install software** icon, the new"
+" software can be transferred to the wick trap directly from the browser."
+
+#: ../../source/cloud_locktoepfe.rst:96
+msgid "Weitere Aktionen je Locktopf"
+msgstr "Further per-trap actions"
+
+#: ../../source/cloud_locktoepfe.rst:99
+msgid "Locktopf anpassen"
+msgstr "Editing a wick trap"
+
+#: ../../source/cloud_locktoepfe.rst:101
+msgid "Über **Locktopf anpassen** änderst du z. B. den Namen des Geräts."
+msgstr "Via **Edit wick trap** you change, for example, the device's name."
+
+#: ../../source/cloud_locktoepfe.rst:104
+msgid "Secret rotieren"
+msgstr "Rotating the secret"
+
+#: ../../source/cloud_locktoepfe.rst:106
+msgid ""
+"Mit **Secret rotieren** erzeugst du ein neues Geräte-Secret. Das bisherige "
+"Secret wird dabei **sofort ungültig**; das neue Secret wird – wie beim "
+"Anlegen – nur einmalig angezeigt. Nutze dies, wenn das alte Secret "
+"kompromittiert sein könnte."
+msgstr ""
+"With **Rotate secret** you generate a new device secret. The previous secret"
+" becomes **invalid immediately**; the new secret is shown only once, as when"
+" creating it. Use this if the old secret might have been compromised."
+
+#: ../../source/cloud_locktoepfe.rst:112
+msgid "Hotspot-Zugangsdaten"
+msgstr "Hotspot credentials"
+
+#: ../../source/cloud_locktoepfe.rst:114
+msgid ""
+"Für den Fall, dass der Locktopf nicht mehr über das WLAN erreichbar ist, "
+"zeigt die Verwaltung die **Hotspot-Zugangsdaten** an. Damit kannst du dich "
+"direkt mit dem geräteeigenen Hotspot verbinden. Damit sich der Hotspot "
+"einschaltet, trenne den Locktopf kurz vom Strom und stecke ihn wieder ein."
+msgstr ""
+"In case the wick trap is no longer reachable over Wi-Fi, the management view"
+" shows the **hotspot credentials**. With them you can connect directly to "
+"the device's own hotspot. To switch the hotspot on, briefly disconnect the "
+"wick trap from power and plug it back in."
+
+#: ../../source/cloud_locktoepfe.rst:120
+msgid "Locktopf entfernen"
+msgstr "Removing a wick trap"
+
+#: ../../source/cloud_locktoepfe.rst:122
+msgid ""
+"Mit **Locktopf entfernen** löst du das Gerät aus deiner Verwaltung. Danach "
+"kann es keine neuen Erkennungen mehr übermitteln."
+msgstr ""
+"With **Remove wick trap** you detach the device from your management. "
+"Afterwards it can no longer submit new detections."
+
+#: ../../source/cloud_locktoepfe.rst:127
+msgid ""
+"Bereits gemeldete **öffentliche** Sichtungen dieses Locktopfs bleiben für "
+"das allgemeine Lagebild erhalten, auch wenn der Locktopf entfernt wird."
+msgstr ""
+"Any **public** sightings already reported by this wick trap remain in the "
+"general situational picture, even if the wick trap is removed."

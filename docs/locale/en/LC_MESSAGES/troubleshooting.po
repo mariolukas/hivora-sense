@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hivora Sense \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-02 10:55+0200\n"
+"POT-Creation-Date: 2026-07-05 20:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -20,11 +20,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.18.0\n"
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:2
+#: ../../source/troubleshooting.rst:2
 msgid "Problembehebung"
 msgstr "Troubleshooting"
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:4
+#: ../../source/troubleshooting.rst:4
 msgid ""
 "Dieser Abschnitt fasst häufige Probleme und Lösungsansätze rund um "
 "Aufbau, Installation und Betrieb der Hivora-Sense-Station zusammen."
@@ -32,43 +32,43 @@ msgstr ""
 "This section summarizes common problems and solutions related to the "
 "assembly, installation, and operation of the Hivora Sense station."
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:8
+#: ../../source/troubleshooting.rst:8
 msgid "Erste Beobachtungen prüfen"
 msgstr "Checking your first observations"
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:10
+#: ../../source/troubleshooting.rst:10
 msgid "Nach der ersten Inbetriebnahme sollte regelmäßig geprüft werden:"
 msgstr "After the first setup, you should check the following regularly:"
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:12
+#: ../../source/troubleshooting.rst:12
 msgid "Sind Bilder verwertbar?"
 msgstr "Are the images usable?"
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:13
+#: ../../source/troubleshooting.rst:13
 msgid "Gibt es Fehlalarme?"
 msgstr "Are there any false alarms?"
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:14
+#: ../../source/troubleshooting.rst:14
 msgid "Ist der Lockstoff noch vorhanden?"
 msgstr "Is there still bait present?"
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:15
+#: ../../source/troubleshooting.rst:15
 msgid "Beschlägt die Kamera?"
 msgstr "Is the camera fogging up?"
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:16
+#: ../../source/troubleshooting.rst:16
 msgid "Bleibt die Stromversorgung stabil?"
 msgstr "Does the power supply remain stable?"
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:17
+#: ../../source/troubleshooting.rst:17
 msgid "Ist das Gehäuse dicht?"
 msgstr "Is the housing sealed?"
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:18
+#: ../../source/troubleshooting.rst:18
 msgid "Muss die Kamera neu ausgerichtet werden?"
 msgstr "Does the camera need to be realigned?"
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:20
+#: ../../source/troubleshooting.rst:20
 msgid ""
 "Erfahrungen aus dem Außeneinsatz sind besonders wertvoll. Wenn du etwas "
 "beobachtest, teile es gerne in der Community."
@@ -76,11 +76,11 @@ msgstr ""
 "Experiences from outdoor use are especially valuable. If you observe "
 "anything, feel free to share it with the community."
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:24
+#: ../../source/troubleshooting.rst:24
 msgid "Software-Installation"
 msgstr "Software installation"
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:26
+#: ../../source/troubleshooting.rst:26
 msgid ""
 "**Serieller Port nicht sichtbar**: USB-Kabel (Datenkabel, nicht nur "
 "Ladekabel) und Browserrechte für WebSerial prüfen."
@@ -88,7 +88,7 @@ msgstr ""
 "**Serial port not visible**: Check the USB cable (a data cable, not just "
 "a charging cable) and the browser permissions for WebSerial."
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:28
+#: ../../source/troubleshooting.rst:28
 msgid ""
 "**Flash-Vorgang fehlgeschlagen**: Verbindung trennen, Gerät neu starten "
 "und den Vorgang erneut ausführen."
@@ -96,15 +96,15 @@ msgstr ""
 "**Flashing process failed**: Disconnect, restart the device, and run the "
 "process again."
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:30
+#: ../../source/troubleshooting.rst:30
 msgid ""
 "**Keine Gerätedaten nach dem Flash**: Baudrate und Board-Profil im "
 "Installer verifizieren."
 msgstr ""
-"**No device data after flashing**: Verify the baud rate and board profile "
-"in the installer."
+"**No device data after flashing**: Verify the baud rate and board profile"
+" in the installer."
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:32
+#: ../../source/troubleshooting.rst:32
 msgid ""
 "**Browser unterstützt WebSerial nicht**: Ein aktuelles Chromium-basiertes"
 " Release verwenden (empfohlen: Google Chrome)."
@@ -112,7 +112,7 @@ msgstr ""
 "**Browser does not support WebSerial**: Use a current Chromium-based "
 "release (recommended: Google Chrome)."
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:34
+#: ../../source/troubleshooting.rst:34
 msgid ""
 "**Mehrere Geräte in der Portauswahl**: Alle anderen USB-Geräte vom "
 "Computer trennen, sodass nur noch das Kameramodul übrig bleibt."
@@ -120,24 +120,28 @@ msgstr ""
 "**Multiple devices in the port selection**: Disconnect all other USB "
 "devices from the computer so that only the camera module remains."
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:38
+#: ../../source/troubleshooting.rst:38
 msgid "XIAO ESP32-S3 nicht mehr erreichbar (Firmware-Recovery)"
 msgstr "XIAO ESP32-S3 no longer reachable (firmware recovery)"
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:40
+#: ../../source/troubleshooting.rst:40
 msgid ""
 "In seltenen Fällen kann es vorkommen, dass ein Seeed Studio XIAO ESP32-S3"
 " Sense nach fehlgeschlagenen Flash-Versuchen weder unter Windows noch "
 "unter macOS zuverlässig erkannt wird. Abhilfe schafft dann eine "
 "Wiederherstellung über den browserbasierten Meshtastic-Flasher "
-"(Community-Tipp):"
+"(Community-Tipp von *Einhorndg*, siehe `Original-Beitrag im Hivora-Forum "
+"<https://hivora.discourse.group/t/aufbauanleitung-hivora-sense-"
+"locktopf/12/8>`_):"
 msgstr ""
 "In rare cases, a Seeed Studio XIAO ESP32-S3 Sense may no longer be "
 "reliably recognized under either Windows or macOS after failed flashing "
 "attempts. A recovery via the browser-based Meshtastic flasher (community "
-"tip) can help in that case:"
+"tip by *Einhorndg*, see the `original post in the Hivora forum "
+"<https://hivora.discourse.group/t/aufbauanleitung-hivora-sense-"
+"locktopf/12/8>`_) can help in that case:"
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:45
+#: ../../source/troubleshooting.rst:47
 msgid ""
 "Mit **Google Chrome** den Meshtastic-Flasher öffnen: "
 "https://flasher.meshtastic.org"
@@ -145,7 +149,7 @@ msgstr ""
 "Open the Meshtastic flasher in **Google Chrome**: "
 "https://flasher.meshtastic.org"
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:47
+#: ../../source/troubleshooting.rst:49
 msgid ""
 "Das Seeed-Studio-XIAO-ESP32-S3-Modul mit **gedrücktem BOOT-Taster** (sehr"
 " klein) per USB anschließen."
@@ -153,15 +157,15 @@ msgstr ""
 "Connect the Seeed Studio XIAO ESP32-S3 module via USB while holding the "
 "**pressed BOOT button** (very small)."
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:49
+#: ../../source/troubleshooting.rst:51
 msgid ""
 "„Zielgerät auswählen“ aufrufen. Der *Seeed Studio XIAO ESP32-S3* findet "
 "sich ganz unten in der Abteilung „Eigenbaugeräte“."
 msgstr ""
-"Open \"Select target device\". The *Seeed Studio XIAO ESP32-S3* is located"
-" at the very bottom in the \"DIY devices\" section."
+"Open \"Select target device\". The *Seeed Studio XIAO ESP32-S3* is "
+"located at the very bottom in the \"DIY devices\" section."
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:51
+#: ../../source/troubleshooting.rst:53
 msgid ""
 "Eine Firmware auswählen (z. B. die aktuell vorgeschlagene Beta) und den "
 "Anweisungen folgen."
@@ -169,7 +173,7 @@ msgstr ""
 "Select a firmware (for example, the currently suggested beta) and follow "
 "the instructions."
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:53
+#: ../../source/troubleshooting.rst:55
 msgid ""
 "Modul von USB trennen, nach ca. 5 Sekunden mit **gedrückter BOOT-Taste** "
 "wieder einschalten."
@@ -177,7 +181,7 @@ msgstr ""
 "Disconnect the module from USB and turn it back on after about 5 seconds "
 "while holding the **pressed BOOT button**."
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:55
+#: ../../source/troubleshooting.rst:57
 msgid ""
 "Anschließend über `hivora.eu <https://hivora.eu/>`_ einen neuen Locktopf "
 "anlegen und die Hivora-Sense-Firmware erneut installieren."
@@ -185,29 +189,29 @@ msgstr ""
 "Then create a new bait station via `hivora.eu <https://hivora.eu/>`_ and "
 "reinstall the Hivora Sense firmware."
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:59
+#: ../../source/troubleshooting.rst:61
 msgid "Hardware / Aufbau"
 msgstr "Hardware / assembly"
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:61
+#: ../../source/troubleshooting.rst:63
 msgid ""
 "**Gerät startet nicht**: Stromversorgung und USB-C-Kabel kontrollieren "
 "(Datenkabel verwenden)."
 msgstr ""
-"**Device does not start**: Check the power supply and the USB-C cable (use "
-"a data cable)."
+"**Device does not start**: Check the power supply and the USB-C cable "
+"(use a data cable)."
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:63
+#: ../../source/troubleshooting.rst:65
 msgid ""
 "**Kein Bild / schlechte Bildqualität**: Prüfen, ob die Schutzfolie von "
 "der Linse entfernt wurde und die Kamera korrekt im Gehäuse und am Ständer"
 " sitzt."
 msgstr ""
-"**No image / poor image quality**: Check that the protective film has been "
-"removed from the lens and that the camera is correctly seated in the "
-"housing and on the stand."
+"**No image / poor image quality**: Check that the protective film has "
+"been removed from the lens and that the camera is correctly seated in the"
+" housing and on the stand."
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:65
+#: ../../source/troubleshooting.rst:67
 msgid ""
 "**Kamera beschlägt / Kondensation**: Auf ausreichende Belüftung und "
 "Dichtheit des Gehäuses achten."
@@ -215,11 +219,13 @@ msgstr ""
 "**The camera fogs up / condensation**: Ensure adequate ventilation and "
 "that the housing is properly sealed."
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:67
+#: ../../source/troubleshooting.rst:69
 msgid "**WiFi-Verbindung instabil**: Festen Sitz der WLAN-Antenne prüfen."
-msgstr "**WiFi connection unstable**: Check that the Wi-Fi antenna is firmly seated."
+msgstr ""
+"**WiFi connection unstable**: Check that the Wi-Fi antenna is firmly "
+"seated."
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:68
+#: ../../source/troubleshooting.rst:70
 msgid ""
 "**Keine Sichtungen auf der SD-Karte**: Prüfen, ob die SD-Karte korrekt im"
 " Slot unter dem Kameramodul sitzt (sie ragt sichtbar heraus)."
@@ -227,11 +233,11 @@ msgstr ""
 "**No sightings on the SD card**: Check that the SD card is correctly "
 "seated in the slot beneath the camera module (it sticks out visibly)."
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:72
+#: ../../source/troubleshooting.rst:74
 msgid "Weitere Hilfe"
 msgstr "Further help"
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:74
+#: ../../source/troubleshooting.rst:76
 msgid ""
 "Lässt sich ein Problem nicht beheben, kann ein Issue im Projekt-"
 "Repository angelegt werden: https://github.com/mariolukas/hivora-sense"
@@ -239,7 +245,7 @@ msgstr ""
 "If you cannot resolve a problem, you can open an issue in the project "
 "repository: https://github.com/mariolukas/hivora-sense"
 
-#: ../../../../../../../Users/mariolukas/workspace/beeguard/hivora-sense/docs/source/troubleshooting.rst:77
+#: ../../source/troubleshooting.rst:79
 msgid ""
 "Weiterer Austausch und Hilfe ist im `Hivora Community Forum "
 "<https://hivora.discourse.group/>`_ möglich."

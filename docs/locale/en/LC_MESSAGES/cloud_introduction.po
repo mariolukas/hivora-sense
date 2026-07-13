@@ -1,0 +1,183 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Hivora Team
+# This file is distributed under the same license as the Hivora package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hivora\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-09 17:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/cloud_introduction.rst:2
+msgid "Hivora Cloud – Einführung"
+msgstr "Hivora Cloud – Introduction"
+
+#: ../../source/cloud_introduction.rst:4
+msgid ""
+"**Hivora Cloud** ist die Web-Plattform des Hivora-Systems. Sie ist unter "
+"`hivora.eu <https://hivora.eu/>`_ erreichbar und führt alles zusammen, was "
+"rund um die Asiatische Hornisse (*Vespa velutina*) anfällt:"
+msgstr ""
+"**Hivora Cloud** is the web platform of the Hivora system. It is available "
+"at `hivora.eu <https://hivora.eu/>`_ and brings together everything related "
+"to the Asian hornet (*Vespa velutina*):"
+
+#: ../../source/cloud_introduction.rst:8
+msgid "Meldungen aus der :doc:`HornetLog App <cloud_hornetlog>`,"
+msgstr "reports from the :doc:`HornetLog app <cloud_hornetlog>`,"
+
+#: ../../source/cloud_introduction.rst:9
+msgid "Erkennungen der :doc:`Hivora Sense <introduction>` Locktöpfe,"
+msgstr "detections from the :doc:`Hivora Sense <introduction>` wick traps,"
+
+#: ../../source/cloud_introduction.rst:10
+msgid ""
+"und die gemeinsame Arbeit im Team – in einem zusammenhängenden Lagebild."
+msgstr ""
+"and the shared work of your team – in one coherent situational picture."
+
+#: ../../source/cloud_introduction.rst:12
+msgid ""
+"Während **Hivora Sense** die Hardware ist, die vor Ort beobachtet, ist "
+"**Hivora Cloud** der Ort, an dem die Ergebnisse sichtbar werden: "
+"strukturiert, filterbar und über die Zeit auswertbar – statt in verstreuten "
+"Handyfotos."
+msgstr ""
+"While **Hivora Sense** is the hardware that observes on site, **Hivora "
+"Cloud** is where the results become visible: structured, filterable and "
+"analysable over time – instead of scattered across phone photos."
+
+#: ../../source/cloud_introduction.rst:17
+msgid "Was du in Hivora Cloud machen kannst"
+msgstr "What you can do in Hivora Cloud"
+
+#: ../../source/cloud_introduction.rst:19
+msgid ""
+"Nach dem Login stehen dir – je nach Plan und Rolle – unter anderem diese "
+"Werkzeuge zur Verfügung:"
+msgstr ""
+"After logging in, the following tools are available to you – depending on "
+"your plan and role, among others:"
+
+#: ../../source/cloud_introduction.rst:22
+msgid ""
+"**Locktöpfe anlegen und verwalten:** deine Hivora Sense Locktöpfe mit dem "
+"Konto verbinden, Status und letzten Kontakt sehen, Software installieren und"
+" verfügbare Updates erkennen (siehe :doc:`cloud_locktoepfe`)."
+msgstr ""
+"**Create and manage wick traps:** connect your Hivora Sense wick traps to "
+"your account, see status and last contact, install software and detect "
+"available updates (see :doc:`cloud_locktoepfe`)."
+
+#: ../../source/cloud_introduction.rst:25
+msgid ""
+"**Sichtungen prüfen:** Erkennungen deiner Locktöpfe mit Foto, Fundort, "
+"Zeitstempel und KI-Konfidenz einsehen, filtern und exportieren (siehe "
+":doc:`cloud_sichtungen`)."
+msgstr ""
+"**Review sightings:** view, filter and export your traps' detections with "
+"photo, location, timestamp and AI confidence (see :doc:`cloud_sichtungen`)."
+
+#: ../../source/cloud_introduction.rst:28
+msgid ""
+"**Statistiken anschauen:** Aktivität über die Zeit, Kennzahlen und die "
+"aktivsten Locktöpfe im Dashboard verfolgen (siehe :doc:`cloud_sichtungen`)."
+msgstr ""
+"**View statistics:** track activity over time, key figures and your most "
+"active wick traps in the dashboard (see :doc:`cloud_sichtungen`)."
+
+#: ../../source/cloud_introduction.rst:31
+msgid ""
+"Für Vereine, Kommunen und Profis kommen darüber hinaus Funktionen wie "
+"einbettbare Meldeformulare und ein gemeinsames Nest-Management hinzu. Diese "
+"Dokumentation konzentriert sich auf die Nutzung als **Community-Anwender**."
+msgstr ""
+"For associations, municipalities and professionals there are additional "
+"features such as embeddable report forms and shared nest management. This "
+"documentation focuses on usage as a **community user**."
+
+#: ../../source/cloud_introduction.rst:36
+msgid "So gehören die Bausteine zusammen"
+msgstr "How the building blocks fit together"
+
+#: ../../source/cloud_introduction.rst:42
+msgid "Baustein"
+msgstr "Building block"
+
+#: ../../source/cloud_introduction.rst:43
+msgid "Rolle im System"
+msgstr "Role in the system"
+
+#: ../../source/cloud_introduction.rst:44
+msgid "**Hivora Sense**"
+msgstr "**Hivora Sense**"
+
+#: ../../source/cloud_introduction.rst:45
+msgid ""
+"Beobachtet den Locktopf vor Ort und erkennt relevante Aktivität lokal (Edge-"
+"KI). Siehe :doc:`introduction`."
+msgstr ""
+"Observes the wick trap on site and detects relevant activity locally (edge "
+"AI). See :doc:`introduction`."
+
+#: ../../source/cloud_introduction.rst:47
+msgid "**HornetLog App**"
+msgstr "**HornetLog app**"
+
+#: ../../source/cloud_introduction.rst:48
+msgid ""
+"Meldet Sichtungen in Sekunden und holt im Feld die Aufnahmen der Locktöpfe "
+"ab – per WLAN oder offline. Siehe :doc:`cloud_hornetlog`."
+msgstr ""
+"Reports sightings in seconds and, in the field, retrieves the traps' "
+"recordings – over Wi-Fi or offline. See :doc:`cloud_hornetlog`."
+
+#: ../../source/cloud_introduction.rst:50
+msgid "**Hivora Cloud**"
+msgstr "**Hivora Cloud**"
+
+#: ../../source/cloud_introduction.rst:51
+msgid ""
+"Führt Meldungen und Erkennungen zusammen und macht sie als Lagebild nutzbar."
+msgstr ""
+"Brings reports and detections together and makes them usable as a "
+"situational picture."
+
+#: ../../source/cloud_introduction.rst:55
+msgid "Zugang"
+msgstr "Access"
+
+#: ../../source/cloud_introduction.rst:57
+msgid ""
+"Für die Nutzung von Hivora Cloud genügt ein kostenloses Konto auf `hivora.eu"
+" <https://hivora.eu/?pk_campaign=doku&pk_source=docs&pk_medium=web>`_. Wie "
+"du dich registrierst und welche Pläne es gibt, beschreibt das Kapitel "
+":doc:`cloud_account`."
+msgstr ""
+"A free account at `hivora.eu "
+"<https://hivora.eu/?pk_campaign=doku&pk_source=docs&pk_medium=web>`_ is all "
+"you need to use Hivora Cloud. The chapter :doc:`cloud_account` describes how"
+" to register and which plans are available."
+
+#: ../../source/cloud_introduction.rst:64
+msgid ""
+"Wer bereits einen Hivora Sense Locktopf aufgebaut hat, hat im Rahmen der "
+":doc:`Software-Installation <software_installation>` in der Regel schon ein "
+"Konto angelegt und einen ersten Locktopf verbunden. Die folgenden Kapitel "
+"vertiefen die Verwaltung dieser Locktöpfe in der Cloud."
+msgstr ""
+"Anyone who has already built a Hivora Sense wick trap will usually have "
+"created an account and connected a first trap as part of the :doc:`software "
+"installation <software_installation>`. The following chapters go deeper into"
+" managing these traps in the cloud."

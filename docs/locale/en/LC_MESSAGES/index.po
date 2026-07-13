@@ -7,36 +7,92 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Hivora Sense \n"
+"Project-Id-Version: Hivora Sense\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-01 18:53+0200\n"
+"POT-Creation-Date: 2026-07-09 17:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: en\n"
 "Language-Team: en <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.18.0\n"
 
-#: ../../source/index.rst:10
-msgid "Inhalte"
-msgstr "Contents"
+#: ../../source/index.rst:24
+msgid "Hivora Sense"
+msgstr "Hivora Sense"
+
+#: ../../source/index.rst:36
+msgid "HornetLog App"
+msgstr "HornetLog App"
+
+#: ../../source/index.rst:42
+msgid "Hivora Cloud"
+msgstr "Hivora Cloud"
 
 #: ../../source/index.rst:2
-msgid "Hivora Sense Dokumentation"
-msgstr "Hivora Sense Documentation"
+msgid "Hivora Dokumentation"
+msgstr "Hivora Documentation"
 
 #: ../../source/index.rst:4
-msgid "Hivora Sense Overview"
-msgstr "Hivora Sense Overview"
+msgid "Hivora Überblick"
+msgstr "Hivora Overview"
 
 #: ../../source/index.rst:8
 msgid ""
-"Willkommen zur technischen Dokumentation von **Hivora Sense: AI Edge "
-"Monitoring for Asian Hornet Wick Traps**."
+"Willkommen zur Dokumentation von **Hivora** – dem offenen System zur "
+"Beobachtung und Eindämmung der invasiven **Asiatischen Hornisse** (*Vespa "
+"velutina*). Hivora besteht aus drei Bausteinen, die ineinandergreifen:"
 msgstr ""
-"Welcome to the technical documentation for **Hivora Sense: AI Edge "
-"Monitoring for Asian Hornet Wick Traps**."
+"Welcome to the documentation of **Hivora** – the open system for observing "
+"and containing the invasive **Asian hornet** (*Vespa velutina*). Hivora "
+"consists of three interlocking building blocks:"
 
+#: ../../source/index.rst:12
+msgid ""
+"**Hivora Sense** – der digitale Beobachtungs-Locktopf mit lokaler Edge-KI, "
+"der Aktivität am Locktopf rund um die Uhr erkennt."
+msgstr ""
+"**Hivora Sense** – the digital observation wick trap with local edge AI that"
+" detects activity at the trap around the clock."
+
+#: ../../source/index.rst:14
+msgid ""
+"**HornetLog App** – die mobile App zum Melden von Sichtungen und zum Abholen"
+" der Aufnahmen der Locktöpfe im Feld."
+msgstr ""
+"**HornetLog app** – the mobile app for reporting sightings and retrieving "
+"the traps' recordings in the field."
+
+#: ../../source/index.rst:16
+msgid ""
+"**Hivora Cloud** – die Web-Plattform auf `hivora.eu <https://hivora.eu/>`_, "
+"die Meldungen, Erkennungen und die Arbeit im Team zu einem gemeinsamen "
+"Lagebild zusammenführt."
+msgstr ""
+"**Hivora Cloud** – the web platform at `hivora.eu <https://hivora.eu/>`_ "
+"that brings reports, detections and teamwork together into one shared "
+"situational picture."
+
+#: ../../source/index.rst:20
+msgid ""
+"Diese Dokumentation ist entsprechend gegliedert: **Hivora Sense** beschreibt "
+"den Aufbau und die Inbetriebnahme der Hardware, die **HornetLog App** das "
+"Melden von Sichtungen und den Feldeinsatz, **Hivora Cloud** die Nutzung der "
+"Web-Plattform."
+msgstr ""
+"This documentation is structured accordingly: **Hivora Sense** describes "
+"building and commissioning the hardware, the **HornetLog app** reporting "
+"sightings and field use, **Hivora Cloud** the use of the web platform."
+
+#~ msgid "Inhalte"
+#~ msgstr "Contents"
+
+#~ msgid ""
+#~ "Willkommen zur technischen Dokumentation von **Hivora Sense: AI Edge "
+#~ "Monitoring for Asian Hornet Wick Traps**."
+#~ msgstr ""
+#~ "Welcome to the technical documentation for **Hivora Sense: AI Edge "
+#~ "Monitoring for Asian Hornet Wick Traps**."
